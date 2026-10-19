@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/mods/champions/scripts.ts",
+    "local": "data__mods__champions__scripts.ts",
+    "sha256": "ad8f41b53ee4ec256e442ba9c03ffd799ebe36fdd8e6c287ae03feea8ecc4666",
+    "note": "社区模拟器实现，非官方赛事规则；master 可变，本地副本固定本次核查内容"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/mods/champions/moves.ts",
+    "local": "data__mods__champions__moves.ts",
+    "sha256": "7830b5386ef0aad255ec8d02f9f2d35c1b89a5ecbb44c7ecb000892127b55e19",
+    "note": "社区模拟器实现，非官方赛事规则；master 可变，本地副本固定本次核查内容"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/mods/champions/abilities.ts",
+    "local": "data__mods__champions__abilities.ts",
+    "sha256": "5c10f24808e26605d2a104139cd25ae76cb9ba12c3cd5331e29cb70659b37bb0",
+    "note": "社区模拟器实现，非官方赛事规则；master 可变，本地副本固定本次核查内容"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/abilities.ts",
+    "local": "data__abilities.ts",
+    "sha256": "e942ef6a75cdd50095f6b68c27e772ea91f2202714a30b04539ff17b7b93c065",
+    "note": "社区模拟器实现，非官方赛事规则；master 可变，本地副本固定本次核查内容"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/moves.ts",
+    "local": "data__moves.ts",
+    "sha256": "61ab107dae9628d79ac61da16c72e8565f6a1211874298e00c77c5c0ac9755a7",
+    "note": "社区模拟器实现，非官方赛事规则；master 可变，本地副本固定本次核查内容"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/smogon/pokemon-showdown/master/data/pokedex.ts",
+    "local": "data__pokedex.ts",
+    "sha256": "5e572601f4700f99835845eee5cd3e53362e43d885e2753fcc32418f636b83ed",
+    "note": "社区模拟器实现，非官方赛事规则；master 可变，本地副本固定本次核查内容"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/smogon/pokemon-showdown/master/config/formats.ts",
+    "local": "config__formats.ts",
+    "sha256": "1255c0cd999be0943ece4b21bd1e2a5edb3a4b47d112e98439bdd3fa1cdf5007",
+    "note": "社区模拟器实现，非官方赛事规则；master 可变，本地副本固定本次核查内容"
+  }
+]
