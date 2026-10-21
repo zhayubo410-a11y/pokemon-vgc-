@@ -2,7 +2,7 @@
 
 - [26张完整HTML审阅稿](complete-review.html)：浅色黑金科技风，索财灵标识；R11完整配置占主区，花叶蒂立绘已按永恒之花/Mega形态修正。下载后在浏览器打开。
 - [完整画面包](complete-review.zip)：含HTML、26张PNG预览、素材与口播对照。
-- [估算SRT字幕](narration-estimated.srt)：121条，预计00:10:12,990（v2连贯紧凑版）；25段口播原文未改。
+- [估算SRT字幕](narration-estimated.srt)：121条，预计00:09:48,990（v3，每句间再紧缩0.2秒）；25段口播原文未改。
 - [段落时间索引](narration-timing.md)
 - [字幕时间轴数据](narration-timing.json)
 
@@ -25,3 +25,7 @@ SRT为配音前估算，采用约300朗读单位/分钟与短停顿；同段首�
 - [生成说明](voiceover-readme.md)
 
 旧SRT为估算，与这次合成配音的实际时间不一致；不要直接当作精确对齐字幕。
+
+## 当前采用：SRT v3
+
+用户要求回到SRT调整。前120条各减少0.2秒，后续同步前移，总时长9分48.990秒；内容及分句不变。此前合成男声保留历史，不作为当前字幕的音频依据。旧v2保存在history/srt-v2，变更见[时间修订对照](subtitle-timing-review-v3.html)。

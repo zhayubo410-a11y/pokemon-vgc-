@@ -1,0 +1,1426 @@
+{
+  "version": "v2 连贯紧凑估算版",
+  "source": "docs/work-records/2026-10-21/09-口播重构v2.docx",
+  "rate_units_per_minute": 300,
+  "estimated_duration_ms": 612990,
+  "cue_count": 121,
+  "paragraph_count": 25,
+  "method": "完整句优先，超过44字符按原分句边界拆分；300朗读单位/分钟；逗号40ms、顿号25ms、句号100ms、问号120ms、分号/冒号60ms；同段字幕无额外空隙；段间150ms、章间300ms；最短条目700ms。",
+  "status": "仅估算，没有实测音频；不能确认配音工具是否另加静音。口播文字不改。",
+  "previous_duration_ms": 815740,
+  "previous_cue_count": 203,
+  "paragraphs": [
+    {
+      "paragraph": "P01",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 0,
+      "end_ms": 28330,
+      "first_cue": 1,
+      "last_cue": 6
+    },
+    {
+      "paragraph": "P02",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 28480,
+      "end_ms": 49670,
+      "first_cue": 7,
+      "last_cue": 10
+    },
+    {
+      "paragraph": "P03",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 49970,
+      "end_ms": 72730,
+      "first_cue": 11,
+      "last_cue": 14
+    },
+    {
+      "paragraph": "P04",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 72880,
+      "end_ms": 93525,
+      "first_cue": 15,
+      "last_cue": 18
+    },
+    {
+      "paragraph": "P05",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 93675,
+      "end_ms": 111575,
+      "first_cue": 19,
+      "last_cue": 21
+    },
+    {
+      "paragraph": "P06",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 111875,
+      "end_ms": 133650,
+      "first_cue": 22,
+      "last_cue": 26
+    },
+    {
+      "paragraph": "P07",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 133800,
+      "end_ms": 162385,
+      "first_cue": 27,
+      "last_cue": 32
+    },
+    {
+      "paragraph": "P08",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 162535,
+      "end_ms": 193400,
+      "first_cue": 33,
+      "last_cue": 38
+    },
+    {
+      "paragraph": "P10",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 193550,
+      "end_ms": 224155,
+      "first_cue": 39,
+      "last_cue": 44
+    },
+    {
+      "paragraph": "P11",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 224305,
+      "end_ms": 247895,
+      "first_cue": 45,
+      "last_cue": 48
+    },
+    {
+      "paragraph": "P12",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 248045,
+      "end_ms": 271610,
+      "first_cue": 49,
+      "last_cue": 53
+    },
+    {
+      "paragraph": "P13",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 271760,
+      "end_ms": 293885,
+      "first_cue": 54,
+      "last_cue": 57
+    },
+    {
+      "paragraph": "P14",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 294035,
+      "end_ms": 323315,
+      "first_cue": 58,
+      "last_cue": 64
+    },
+    {
+      "paragraph": "P15",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 323465,
+      "end_ms": 357500,
+      "first_cue": 65,
+      "last_cue": 71
+    },
+    {
+      "paragraph": "P17",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 357650,
+      "end_ms": 388935,
+      "first_cue": 72,
+      "last_cue": 78
+    },
+    {
+      "paragraph": "P18",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 389235,
+      "end_ms": 405960,
+      "first_cue": 79,
+      "last_cue": 81
+    },
+    {
+      "paragraph": "P19",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 406110,
+      "end_ms": 427530,
+      "first_cue": 82,
+      "last_cue": 84
+    },
+    {
+      "paragraph": "P20",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 427680,
+      "end_ms": 457565,
+      "first_cue": 85,
+      "last_cue": 89
+    },
+    {
+      "paragraph": "P21",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 457715,
+      "end_ms": 486860,
+      "first_cue": 90,
+      "last_cue": 95
+    },
+    {
+      "paragraph": "P22",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 487010,
+      "end_ms": 516750,
+      "first_cue": 96,
+      "last_cue": 101
+    },
+    {
+      "paragraph": "P23",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 517050,
+      "end_ms": 537155,
+      "first_cue": 102,
+      "last_cue": 105
+    },
+    {
+      "paragraph": "P24",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 537305,
+      "end_ms": 559545,
+      "first_cue": 106,
+      "last_cue": 110
+    },
+    {
+      "paragraph": "P25",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 559695,
+      "end_ms": 575780,
+      "first_cue": 111,
+      "last_cue": 114
+    },
+    {
+      "paragraph": "P26",
+      "chapter": "第六章 总结",
+      "start_ms": 576080,
+      "end_ms": 591090,
+      "first_cue": 115,
+      "last_cue": 117
+    },
+    {
+      "paragraph": "P27",
+      "chapter": "第六章 总结",
+      "start_ms": 591240,
+      "end_ms": 612990,
+      "first_cue": 118,
+      "last_cue": 121
+    }
+  ],
+  "cues": [
+    {
+      "index": 1,
+      "paragraph": "P01",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 0,
+      "end_ms": 5340,
+      "text": "今天分享一支R赛八强队伍，来自Ryan与Nick共同打磨的构筑。",
+      "srt_text": "今天分享一支R赛八强队伍，\n来自Ryan与Nick共同打磨的构筑。",
+      "estimated_reading_units": 26
+    },
+    {
+      "index": 2,
+      "paragraph": "P01",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 5340,
+      "end_ms": 11305,
+      "text": "放到宝可梦冠军新赛季来看，六只都是高使用率、单体强度优秀的成员。",
+      "srt_text": "放到宝可梦冠军新赛季来看，\n六只都是高使用率、单体强度优秀的成员。",
+      "estimated_reading_units": 29
+    },
+    {
+      "index": 3,
+      "paragraph": "P01",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 11305,
+      "end_ms": 15045,
+      "text": "这次最值得拆解的，是这只重装肉坦暴飞龙。",
+      "srt_text": "这次最值得拆解的，是这只重装肉坦暴飞龙。",
+      "estimated_reading_units": 18
+    },
+    {
+      "index": 4,
+      "paragraph": "P01",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 15045,
+      "end_ms": 23110,
+      "text": "除了高速特攻和双刀，暴飞龙还有这种偏耐久的分配：宁愿少分一些特攻，也要让它更肉、更能扛。",
+      "srt_text": "除了高速特攻和双刀，暴飞龙还有这种偏耐久的分配：\n宁愿少分一些特攻，也要让它更肉、更能扛。",
+      "estimated_reading_units": 39
+    },
+    {
+      "index": 5,
+      "paragraph": "P01",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 23110,
+      "end_ms": 25430,
+      "text": "这样分配到底有什么优势？",
+      "srt_text": "这样分配到底有什么优势？",
+      "estimated_reading_units": 11
+    },
+    {
+      "index": 6,
+      "paragraph": "P01",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 25430,
+      "end_ms": 28330,
+      "text": "接下来我们就结合这支队伍来讲。",
+      "srt_text": "接下来我们就结合这支队伍来讲。",
+      "estimated_reading_units": 14
+    },
+    {
+      "index": 7,
+      "paragraph": "P02",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 28480,
+      "end_ms": 30380,
+      "text": "这支队的分工很清楚。",
+      "srt_text": "这支队的分工很清楚。",
+      "estimated_reading_units": 9
+    },
+    {
+      "index": 8,
+      "paragraph": "P02",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 30380,
+      "end_ms": 36885,
+      "text": "暴飞龙负责承伤、输出和顺风，草猩与大狃拉用击掌和换位给它创造出手机会，",
+      "srt_text": "暴飞龙负责承伤、输出和顺风，\n草猩与大狃拉用击掌和换位给它创造出手机会，",
+      "estimated_reading_units": 32
+    },
+    {
+      "index": 9,
+      "paragraph": "P02",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 36885,
+      "end_ms": 43490,
+      "text": "仆刀将军反制威吓、补上恶钢打击，花叶蒂提供另一条Mega路线，鬼鱼补足爆发。",
+      "srt_text": "仆刀将军反制威吓、补上恶钢打击，\n花叶蒂提供另一条Mega路线，鬼鱼补足爆发。",
+      "estimated_reading_units": 32
+    },
+    {
+      "index": 10,
+      "paragraph": "P02",
+      "chapter": "第一章 重装肉坦暴飞龙的构筑思路",
+      "start_ms": 43490,
+      "end_ms": 49670,
+      "text": "几只之间能互相掩护，暴飞龙多撑一回合，队友就多一次接上输出的机会。",
+      "srt_text": "几只之间能互相掩护，暴飞龙多撑一回合，\n队友就多一次接上输出的机会。",
+      "estimated_reading_units": 30
+    },
+    {
+      "index": 11,
+      "paragraph": "P03",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 49970,
+      "end_ms": 52270,
+      "text": "先来讲讲基本的展开逻辑。",
+      "srt_text": "先来讲讲基本的展开逻辑。",
+      "estimated_reading_units": 11
+    },
+    {
+      "index": 12,
+      "paragraph": "P03",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 52270,
+      "end_ms": 59850,
+      "text": "击掌奇袭限制对方一侧的行动，暴飞龙进化前的威吓降低物理压力，再靠自身耐久站住场。",
+      "srt_text": "击掌奇袭限制对方一侧的行动，\n暴飞龙进化前的威吓降低物理压力，再靠自身耐久站住场。",
+      "estimated_reading_units": 37
+    },
+    {
+      "index": 13,
+      "paragraph": "P03",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 59850,
+      "end_ms": 66750,
+      "text": "接下来要看对面：需要抢速度，就开顺风；已经有出手优势，就用巨声压低两边血线。",
+      "srt_text": "接下来要看对面：需要抢速度，就开顺风；\n已经有出手优势，就用巨声压低两边血线。",
+      "estimated_reading_units": 33
+    },
+    {
+      "index": 14,
+      "paragraph": "P03",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 66750,
+      "end_ms": 72730,
+      "text": "耐久的收益就在这里，多活下来的这一回合，能让你把想做的事做出来。",
+      "srt_text": "耐久的收益就在这里，多活下来的这一回合，\n能让你把想做的事做出来。",
+      "estimated_reading_units": 29
+    },
+    {
+      "index": 15,
+      "paragraph": "P04",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 72880,
+      "end_ms": 77785,
+      "text": "比如对面有气势披带，暴飞龙先用巨声破掉披带、压低血线，",
+      "srt_text": "比如对面有气势披带，\n暴飞龙先用巨声破掉披带、压低血线，",
+      "estimated_reading_units": 24
+    },
+    {
+      "index": 16,
+      "paragraph": "P04",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 77785,
+      "end_ms": 81285,
+      "text": "下一回合就可能让鬼鱼用水流喷射收掉。",
+      "srt_text": "下一回合就可能让鬼鱼用水流喷射收掉。",
+      "estimated_reading_units": 17
+    },
+    {
+      "index": 17,
+      "paragraph": "P04",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 81285,
+      "end_ms": 86885,
+      "text": "这里注意回合顺序：喷射有优先度，通常会比同回合的巨声先出手。",
+      "srt_text": "这里注意回合顺序：喷射有优先度，\n通常会比同回合的巨声先出手。",
+      "estimated_reading_units": 27
+    },
+    {
+      "index": 18,
+      "paragraph": "P04",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 86885,
+      "end_ms": 93525,
+      "text": "所以这套配合要先压血，再等下一回合补刀；能不能收掉，还得看对面剩多少血。",
+      "srt_text": "所以这套配合要先压血，再等下一回合补刀；\n能不能收掉，还得看对面剩多少血。",
+      "estimated_reading_units": 32
+    },
+    {
+      "index": 19,
+      "paragraph": "P05",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 93675,
+      "end_ms": 101695,
+      "text": "如果对方已经开出空间，就先考虑守住和换位，尽量少让对手打出有效伤害，等空间结束再反打。",
+      "srt_text": "如果对方已经开出空间，就先考虑守住和换位，\n尽量少让对手打出有效伤害，等空间结束再反打。",
+      "estimated_reading_units": 39
+    },
+    {
+      "index": 20,
+      "paragraph": "P05",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 101695,
+      "end_ms": 104195,
+      "text": "暴飞龙这时不一定要点顺风。",
+      "srt_text": "暴飞龙这时不一定要点顺风。",
+      "estimated_reading_units": 12
+    },
+    {
+      "index": 21,
+      "paragraph": "P05",
+      "chapter": "第二章 基本展开与获胜路线",
+      "start_ms": 104195,
+      "end_ms": 111575,
+      "text": "而遇到花叶蒂更好发挥的对局，也可以把Mega交给它，走妖精输出或者冥想强化的路线。",
+      "srt_text": "而遇到花叶蒂更好发挥的对局，也可以把Mega交给它，\n走妖精输出或者冥想强化的路线。",
+      "estimated_reading_units": 36
+    },
+    {
+      "index": 22,
+      "paragraph": "P06",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 111875,
+      "end_ms": 112975,
+      "text": "先看暴飞龙。",
+      "srt_text": "先看暴飞龙。",
+      "estimated_reading_units": 5
+    },
+    {
+      "index": 23,
+      "paragraph": "P06",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 112975,
+      "end_ms": 120455,
+      "text": "内敛性格，三十一点HP、一点防御、六点特攻、十一点特防、十七点速度，携带暴飞龙进化石。",
+      "srt_text": "内敛性格，三十一点HP、一点防御、六点特攻、\n十一点特防、十七点速度，携带暴飞龙进化石。",
+      "estimated_reading_units": 36
+    },
+    {
+      "index": 24,
+      "paragraph": "P06",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 120455,
+      "end_ms": 123230,
+      "text": "四招是巨声、喷射火焰、顺风、守住。",
+      "srt_text": "四招是巨声、喷射火焰、顺风、守住。",
+      "estimated_reading_units": 13
+    },
+    {
+      "index": 25,
+      "paragraph": "P06",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 123230,
+      "end_ms": 131350,
+      "text": "进化前靠威吓缓冲物理压力，进化后特性变成飞行皮肤，巨声也就成了有本系加成的飞行AOE，",
+      "srt_text": "进化前靠威吓缓冲物理压力，进化后特性变成飞行皮肤，\n巨声也就成了有本系加成的飞行AOE，",
+      "estimated_reading_units": 40
+    },
+    {
+      "index": 26,
+      "paragraph": "P06",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 131350,
+      "end_ms": 133650,
+      "text": "能同时压对面两只的血线。",
+      "srt_text": "能同时压对面两只的血线。",
+      "estimated_reading_units": 11
+    },
+    {
+      "index": 27,
+      "paragraph": "P07",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 133800,
+      "end_ms": 139365,
+      "text": "Mega之后，它有二百零一HP、一百五十一防御和一百二十一特防。",
+      "srt_text": "Mega之后，它有二百零一HP、\n一百五十一防御和一百二十一特防。",
+      "estimated_reading_units": 27
+    },
+    {
+      "index": 28,
+      "paragraph": "P07",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 139365,
+      "end_ms": 144845,
+      "text": "这套耐久想争取的，就是接下常规未强化Mega暴飞龙的龙之波动，",
+      "srt_text": "这套耐久想争取的，\n就是接下常规未强化Mega暴飞龙的龙之波动，",
+      "estimated_reading_units": 27
+    },
+    {
+      "index": 29,
+      "paragraph": "P07",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 144845,
+      "end_ms": 149385,
+      "text": "面对Mega烈咬陆鲨Z的龙之波动时，也保留存活机会。",
+      "srt_text": "面对Mega烈咬陆鲨Z的龙之波动时，\n也保留存活机会。",
+      "estimated_reading_units": 22
+    },
+    {
+      "index": 30,
+      "paragraph": "P07",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 149385,
+      "end_ms": 153925,
+      "text": "具体能不能扛住，还要看对方配置和自己的剩余血量。",
+      "srt_text": "具体能不能扛住，\n还要看对方配置和自己的剩余血量。",
+      "estimated_reading_units": 22
+    },
+    {
+      "index": 31,
+      "paragraph": "P07",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 153925,
+      "end_ms": 159885,
+      "text": "内战里，只要这一轮没被带走，就可能再开一次顺风，或者多打一发巨声，",
+      "srt_text": "内战里，只要这一轮没被带走，\n就可能再开一次顺风，或者多打一发巨声，",
+      "estimated_reading_units": 29
+    },
+    {
+      "index": 32,
+      "paragraph": "P07",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 159885,
+      "end_ms": 162385,
+      "text": "给队友留下更好收尾的局面。",
+      "srt_text": "给队友留下更好收尾的局面。",
+      "estimated_reading_units": 12
+    },
+    {
+      "index": 33,
+      "paragraph": "P08",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 162535,
+      "end_ms": 169755,
+      "text": "速度方面，Mega后一百五十七，刚好超过没有额外加速的极速洗翠风速狗，一百五十六。",
+      "srt_text": "速度方面，Mega后一百五十七，\n刚好超过没有额外加速的极速洗翠风速狗，一百五十六。",
+      "estimated_reading_units": 35
+    },
+    {
+      "index": 34,
+      "paragraph": "P08",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 169755,
+      "end_ms": 175655,
+      "text": "喷射火焰则补充对钢系的打击，比如Mega具甲武者就可以用这招针对；",
+      "srt_text": "喷射火焰则补充对钢系的打击，\n比如Mega具甲武者就可以用这招针对；",
+      "estimated_reading_units": 29
+    },
+    {
+      "index": 35,
+      "paragraph": "P08",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 175655,
+      "end_ms": 178355,
+      "text": "这里说的是Mega后的虫钢形态。",
+      "srt_text": "这里说的是Mega后的虫钢形态。",
+      "estimated_reading_units": 13
+    },
+    {
+      "index": 36,
+      "paragraph": "P08",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 178355,
+      "end_ms": 182255,
+      "text": "第四招可以在组队时按需求选守住或流星群。",
+      "srt_text": "第四招可以在组队时按需求选守住或流星群。",
+      "estimated_reading_units": 19
+    },
+    {
+      "index": 37,
+      "paragraph": "P08",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 182255,
+      "end_ms": 188660,
+      "text": "这份配置带守住，用来避开集火、拖空间；换成流星群，没把Mega交给暴飞龙时，",
+      "srt_text": "这份配置带守住，用来避开集火、拖空间；\n换成流星群，没把Mega交给暴飞龙时，",
+      "estimated_reading_units": 31
+    },
+    {
+      "index": 38,
+      "paragraph": "P08",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 188660,
+      "end_ms": 193400,
+      "text": "也有龙系本系招式能打，但就要接受少一个守住的代价。",
+      "srt_text": "也有龙系本系招式能打，\n但就要接受少一个守住的代价。",
+      "estimated_reading_units": 23
+    },
+    {
+      "index": 39,
+      "paragraph": "P10",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 193550,
+      "end_ms": 195890,
+      "text": "再看幽尾玄鱼，也就是鬼鱼。",
+      "srt_text": "再看幽尾玄鱼，也就是鬼鱼。",
+      "estimated_reading_units": 11
+    },
+    {
+      "index": 40,
+      "paragraph": "P10",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 195890,
+      "end_ms": 198670,
+      "text": "两个重点，爽朗极速，加生命宝珠。",
+      "srt_text": "两个重点，爽朗极速，加生命宝珠。",
+      "estimated_reading_units": 13
+    },
+    {
+      "index": 41,
+      "paragraph": "P10",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 198670,
+      "end_ms": 204810,
+      "text": "一百四十三速能超过没有额外加速的内敛满速赛富豪，但慢于胆小极速。",
+      "srt_text": "一百四十三速能超过没有额外加速的内敛满速赛富豪，\n但慢于胆小极速。",
+      "estimated_reading_units": 30
+    },
+    {
+      "index": 42,
+      "paragraph": "P10",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 204810,
+      "end_ms": 210150,
+      "text": "内战里比固执满速鬼鱼快，碰到同样爽朗极速的才需要拼同速。",
+      "srt_text": "内战里比固执满速鬼鱼快，\n碰到同样爽朗极速的才需要拼同速。",
+      "estimated_reading_units": 26
+    },
+    {
+      "index": 43,
+      "paragraph": "P10",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 210150,
+      "end_ms": 216355,
+      "text": "适应力配合波动冲、扫墓提供爆发，水流喷射接队友压血，守住等出手机会。",
+      "srt_text": "适应力配合波动冲、扫墓提供爆发，\n水流喷射接队友压血，守住等出手机会。",
+      "estimated_reading_units": 30
+    },
+    {
+      "index": 44,
+      "paragraph": "P10",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 216355,
+      "end_ms": 224155,
+      "text": "物防投入也是为了尽量多打一发；宝珠扣血加上波动冲的反作用力，让它没法一直站场换血。",
+      "srt_text": "物防投入也是为了尽量多打一发；\n宝珠扣血加上波动冲的反作用力，让它没法一直站场换血。",
+      "estimated_reading_units": 38
+    },
+    {
+      "index": 45,
+      "paragraph": "P11",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 224305,
+      "end_ms": 227245,
+      "text": "接着是轰擂金刚猩，后面简称草猩。",
+      "srt_text": "接着是轰擂金刚猩，后面简称草猩。",
+      "estimated_reading_units": 14
+    },
+    {
+      "index": 46,
+      "paragraph": "P11",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 227245,
+      "end_ms": 233310,
+      "text": "固执性格、青草制造者、奇迹种子，四招木槌、青草滑梯、急速折返、击掌奇袭。",
+      "srt_text": "固执性格、青草制造者、奇迹种子，\n四招木槌、青草滑梯、急速折返、击掌奇袭。",
+      "estimated_reading_units": 29
+    },
+    {
+      "index": 47,
+      "paragraph": "P11",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 233310,
+      "end_ms": 239715,
+      "text": "草系输出之外，这只更重要的是抢场地、打击掌，再用急速折返把队友换上来。",
+      "srt_text": "草系输出之外，这只更重要的是抢场地、\n打击掌，再用急速折返把队友换上来。",
+      "estimated_reading_units": 31
+    },
+    {
+      "index": 48,
+      "paragraph": "P11",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 239715,
+      "end_ms": 247895,
+      "text": "十五点攻击卡在性格跳点，速度一百一十五，是作者为了避开原先和部分美纳斯同速而做的调整。",
+      "srt_text": "十五点攻击卡在性格跳点，速度一百一十五，\n是作者为了避开原先和部分美纳斯同速而做的调整。",
+      "estimated_reading_units": 40
+    },
+    {
+      "index": 49,
+      "paragraph": "P12",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 248045,
+      "end_ms": 251385,
+      "text": "尤其面对爱管侍，急速折返就很有价值。",
+      "srt_text": "尤其面对爱管侍，急速折返就很有价值。",
+      "estimated_reading_units": 16
+    },
+    {
+      "index": 50,
+      "paragraph": "P12",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 251385,
+      "end_ms": 256305,
+      "text": "草猩先退下来，找机会重新进场，用青草场地盖掉精神场地，",
+      "srt_text": "草猩先退下来，找机会重新进场，\n用青草场地盖掉精神场地，",
+      "estimated_reading_units": 24
+    },
+    {
+      "index": 51,
+      "paragraph": "P12",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 256305,
+      "end_ms": 259630,
+      "text": "击掌、青草滑梯和水流喷射才更好发挥。",
+      "srt_text": "击掌、青草滑梯和水流喷射才更好发挥。",
+      "estimated_reading_units": 16
+    },
+    {
+      "index": 52,
+      "paragraph": "P12",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 259630,
+      "end_ms": 264770,
+      "text": "场地是在草猩再次入场时改的，所以要给它留好回来的位置。",
+      "srt_text": "场地是在草猩再次入场时改的，\n所以要给它留好回来的位置。",
+      "estimated_reading_units": 25
+    },
+    {
+      "index": 53,
+      "paragraph": "P12",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 264770,
+      "end_ms": 271610,
+      "text": "还有一点，草场也会给对手的接地成员回血；暴飞龙通常不接地，吃不到这份回复。",
+      "srt_text": "还有一点，草场也会给对手的接地成员回血；\n暴飞龙通常不接地，吃不到这份回复。",
+      "estimated_reading_units": 33
+    },
+    {
+      "index": 54,
+      "paragraph": "P13",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 271760,
+      "end_ms": 277625,
+      "text": "大狃拉是爽朗性格、毒手、气势披带，四招克命爪、近身战、击掌奇袭、守住。",
+      "srt_text": "大狃拉是爽朗性格、毒手、气势披带，\n四招克命爪、近身战、击掌奇袭、守住。",
+      "estimated_reading_units": 28
+    },
+    {
+      "index": 55,
+      "paragraph": "P13",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 277625,
+      "end_ms": 285205,
+      "text": "速度一百八十五，比没有额外加速的极速风妖精快一点，但低于极速大狃拉的一百八十九。",
+      "srt_text": "速度一百八十五，比没有额外加速的极速风妖精快一点，\n但低于极速大狃拉的一百八十九。",
+      "estimated_reading_units": 37
+    },
+    {
+      "index": 56,
+      "paragraph": "P13",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 285205,
+      "end_ms": 288945,
+      "text": "所以打内战时，先按自己后手来规划更稳妥。",
+      "srt_text": "所以打内战时，先按自己后手来规划更稳妥。",
+      "estimated_reading_units": 18
+    },
+    {
+      "index": 57,
+      "paragraph": "P13",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 288945,
+      "end_ms": 293885,
+      "text": "对面如果是常见的极速分配，就别把这回合押在拼同速上。",
+      "srt_text": "对面如果是常见的极速分配，\n就别把这回合押在拼同速上。",
+      "estimated_reading_units": 24
+    },
+    {
+      "index": 58,
+      "paragraph": "P14",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 294035,
+      "end_ms": 296135,
+      "text": "毒手的收益也很值得讲。",
+      "srt_text": "毒手的收益也很值得讲。",
+      "estimated_reading_units": 10
+    },
+    {
+      "index": 59,
+      "paragraph": "P14",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 296135,
+      "end_ms": 304055,
+      "text": "符合条件的接触攻击有三成机会让对手中毒，哪怕只是拍一下击掌，触发后再配合守住和轮转，",
+      "srt_text": "符合条件的接触攻击有三成机会让对手中毒，\n哪怕只是拍一下击掌，触发后再配合守住和轮转，",
+      "estimated_reading_units": 39
+    },
+    {
+      "index": 60,
+      "paragraph": "P14",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 304055,
+      "end_ms": 306555,
+      "text": "也可能把难打的残局锁下来。",
+      "srt_text": "也可能把难打的残局锁下来。",
+      "estimated_reading_units": 12
+    },
+    {
+      "index": 61,
+      "paragraph": "P14",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 306555,
+      "end_ms": 309695,
+      "text": "当然，选招时不能默认这次一定触发。",
+      "srt_text": "当然，选招时不能默认这次一定触发。",
+      "estimated_reading_units": 15
+    },
+    {
+      "index": 62,
+      "paragraph": "P14",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 309695,
+      "end_ms": 316875,
+      "text": "披带还有个设计思路：第一回合吃过击掌，如果草场刚好把血回满，而且披带还没用掉，",
+      "srt_text": "披带还有个设计思路：第一回合吃过击掌，\n如果草场刚好把血回满，而且披带还没用掉，",
+      "estimated_reading_units": 35
+    },
+    {
+      "index": 63,
+      "paragraph": "P14",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 316875,
+      "end_ms": 319175,
+      "text": "下一回合它就仍然能生效。",
+      "srt_text": "下一回合它就仍然能生效。",
+      "estimated_reading_units": 11
+    },
+    {
+      "index": 64,
+      "paragraph": "P14",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 319175,
+      "end_ms": 323315,
+      "text": "要看清的是有没有回满，中间又有没有额外掉血。",
+      "srt_text": "要看清的是有没有回满，中间又有没有额外掉血。",
+      "estimated_reading_units": 20
+    },
+    {
+      "index": 65,
+      "paragraph": "P15",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 323465,
+      "end_ms": 329720,
+      "text": "花叶蒂是大胆性格，携带花叶蒂进化石，四招月亮之力、魔法闪耀、冥想、守住。",
+      "srt_text": "花叶蒂是大胆性格，携带花叶蒂进化石，\n四招月亮之力、魔法闪耀、冥想、守住。",
+      "estimated_reading_units": 30
+    },
+    {
+      "index": 66,
+      "paragraph": "P15",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 329720,
+      "end_ms": 337080,
+      "text": "二十三点防御配合性格，Mega后物防达到一百四十三，特攻一百八十一，速度一百三十一，",
+      "srt_text": "二十三点防御配合性格，Mega后物防达到一百四十三，\n特攻一百八十一，速度一百三十一，",
+      "estimated_reading_units": 36
+    },
+    {
+      "index": 67,
+      "paragraph": "P15",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 337080,
+      "end_ms": 339980,
+      "text": "超过无额外加速的固执满速鬼鱼。",
+      "srt_text": "超过无额外加速的固执满速鬼鱼。",
+      "estimated_reading_units": 14
+    },
+    {
+      "index": 68,
+      "paragraph": "P15",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 339980,
+      "end_ms": 345120,
+      "text": "有机会可以直接用妖精招式打伤害，也可以靠队友掩护冥想。",
+      "srt_text": "有机会可以直接用妖精招式打伤害，\n也可以靠队友掩护冥想。",
+      "estimated_reading_units": 25
+    },
+    {
+      "index": 69,
+      "paragraph": "P15",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 345120,
+      "end_ms": 352460,
+      "text": "和草猩一起在场时，进化前的花幕还能保护草猩不被威吓；但Mega后特性变成妖精气场，",
+      "srt_text": "和草猩一起在场时，进化前的花幕还能保护草猩不被威吓；\n但Mega后特性变成妖精气场，",
+      "estimated_reading_units": 36
+    },
+    {
+      "index": 70,
+      "paragraph": "P15",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 352460,
+      "end_ms": 354560,
+      "text": "后续的威吓就挡不住了。",
+      "srt_text": "后续的威吓就挡不住了。",
+      "estimated_reading_units": 10
+    },
+    {
+      "index": 71,
+      "paragraph": "P15",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 354560,
+      "end_ms": 357500,
+      "text": "想利用这层保护，要注意进化时机。",
+      "srt_text": "想利用这层保护，要注意进化时机。",
+      "estimated_reading_units": 14
+    },
+    {
+      "index": 72,
+      "paragraph": "P17",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 357650,
+      "end_ms": 363355,
+      "text": "最后是仆刀将军，固执性格、不服输、莲蒲果，四招仆刀、突袭、铁头、守住。",
+      "srt_text": "最后是仆刀将军，固执性格、不服输、\n莲蒲果，四招仆刀、突袭、铁头、守住。",
+      "estimated_reading_units": 27
+    },
+    {
+      "index": 73,
+      "paragraph": "P17",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 363355,
+      "end_ms": 369235,
+      "text": "一百九十八攻击保证物理输出，七十九速度在顺风下变成一百五十八，",
+      "srt_text": "一百九十八攻击保证物理输出，\n七十九速度在顺风下变成一百五十八，",
+      "estimated_reading_units": 29
+    },
+    {
+      "index": 74,
+      "paragraph": "P17",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 369235,
+      "end_ms": 372735,
+      "text": "能超过没有额外加速的极速洗翠风速狗。",
+      "srt_text": "能超过没有额外加速的极速洗翠风速狗。",
+      "estimated_reading_units": 17
+    },
+    {
+      "index": 75,
+      "paragraph": "P17",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 372735,
+      "end_ms": 379955,
+      "text": "莲蒲果，也就是抗斗果，能减轻一次效果绝佳的格斗伤害，为反打争取机会；能不能出手，",
+      "srt_text": "莲蒲果，也就是抗斗果，能减轻一次效果绝佳的格斗伤害，\n为反打争取机会；能不能出手，",
+      "estimated_reading_units": 35
+    },
+    {
+      "index": 76,
+      "paragraph": "P17",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 379955,
+      "end_ms": 382055,
+      "text": "仍要看血量和对方集火。",
+      "srt_text": "仍要看血量和对方集火。",
+      "estimated_reading_units": 10
+    },
+    {
+      "index": 77,
+      "paragraph": "P17",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 382055,
+      "end_ms": 386395,
+      "text": "不服输则能反制威吓，让对手换威吓手时有所顾忌。",
+      "srt_text": "不服输则能反制威吓，\n让对手换威吓手时有所顾忌。",
+      "estimated_reading_units": 21
+    },
+    {
+      "index": 78,
+      "paragraph": "P17",
+      "chapter": "第三章 六只配置与操作要点",
+      "start_ms": 386395,
+      "end_ms": 388935,
+      "text": "最后再靠突袭，补上先制收尾。",
+      "srt_text": "最后再靠突袭，补上先制收尾。",
+      "estimated_reading_units": 12
+    },
+    {
+      "index": 79,
+      "paragraph": "P18",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 389235,
+      "end_ms": 392175,
+      "text": "六只讲完，再来看实战怎么选四只。",
+      "srt_text": "六只讲完，再来看实战怎么选四只。",
+      "estimated_reading_units": 14
+    },
+    {
+      "index": 80,
+      "paragraph": "P18",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 392175,
+      "end_ms": 399380,
+      "text": "先看对面靠什么输出、怎么控速，有没有限制击掌和先制的手段，再决定这局让谁Mega。",
+      "srt_text": "先看对面靠什么输出、怎么控速，\n有没有限制击掌和先制的手段，再决定这局让谁Mega。",
+      "estimated_reading_units": 35
+    },
+    {
+      "index": 81,
+      "paragraph": "P18",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 399380,
+      "end_ms": 405960,
+      "text": "下面三组是按这份配置推演的选出思路，实际用的时候，要结合对面六只调整。",
+      "srt_text": "下面三组是按这份配置推演的选出思路，\n实际用的时候，要结合对面六只调整。",
+      "estimated_reading_units": 32
+    },
+    {
+      "index": 82,
+      "paragraph": "P19",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 406110,
+      "end_ms": 413330,
+      "text": "面对中速进攻，对方又不太好阻止顺风时，可以暴飞龙加大狃拉首发，鬼鱼和将军后排。",
+      "srt_text": "面对中速进攻，对方又不太好阻止顺风时，\n可以暴飞龙加大狃拉首发，鬼鱼和将军后排。",
+      "estimated_reading_units": 35
+    },
+    {
+      "index": 83,
+      "paragraph": "P19",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 413330,
+      "end_ms": 419310,
+      "text": "大狃拉用击掌掩护，暴飞龙看局面开顺风或者直接巨声，后排再接着打。",
+      "srt_text": "大狃拉用击掌掩护，\n暴飞龙看局面开顺风或者直接巨声，后排再接着打。",
+      "estimated_reading_units": 29
+    },
+    {
+      "index": 84,
+      "paragraph": "P19",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 419310,
+      "end_ms": 427530,
+      "text": "如果拍住一只以后，另一只仍然能带走暴飞龙，就要先保住它，别见到这个首发就固定击掌加顺风。",
+      "srt_text": "如果拍住一只以后，另一只仍然能带走暴飞龙，\n就要先保住它，别见到这个首发就固定击掌加顺风。",
+      "estimated_reading_units": 40
+    },
+    {
+      "index": 85,
+      "paragraph": "P20",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 427680,
+      "end_ms": 435485,
+      "text": "如果对手更怕妖精或特攻输出，可以花叶蒂加草猩首发，后排从大狃拉、鬼鱼和将军里挑两只。",
+      "srt_text": "如果对手更怕妖精或特攻输出，可以花叶蒂加草猩首发，\n后排从大狃拉、鬼鱼和将军里挑两只。",
+      "estimated_reading_units": 38
+    },
+    {
+      "index": 86,
+      "paragraph": "P20",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 435485,
+      "end_ms": 443305,
+      "text": "比如带大狃拉加鬼鱼，草猩和大狃拉轮换着打击掌，给花叶蒂找冥想机会，鬼鱼负责后续爆发。",
+      "srt_text": "比如带大狃拉加鬼鱼，草猩和大狃拉轮换着打击掌，\n给花叶蒂找冥想机会，鬼鱼负责后续爆发。",
+      "estimated_reading_units": 38
+    },
+    {
+      "index": 87,
+      "paragraph": "P20",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 443305,
+      "end_ms": 446845,
+      "text": "需要恶钢打击时，也可以把鬼鱼换成将军。",
+      "srt_text": "需要恶钢打击时，也可以把鬼鱼换成将军。",
+      "estimated_reading_units": 17
+    },
+    {
+      "index": 88,
+      "paragraph": "P20",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 446845,
+      "end_ms": 450385,
+      "text": "想打双击掌这条路线，后排就得有大狃拉。",
+      "srt_text": "想打双击掌这条路线，后排就得有大狃拉。",
+      "estimated_reading_units": 17
+    },
+    {
+      "index": 89,
+      "paragraph": "P20",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 450385,
+      "end_ms": 457565,
+      "text": "这套没有顺风，要先判断击掌掩护和自身耐久够不够，别为了强化让花叶蒂白吃集火。",
+      "srt_text": "这套没有顺风，要先判断击掌掩护和自身耐久够不够，\n别为了强化让花叶蒂白吃集火。",
+      "estimated_reading_units": 35
+    },
+    {
+      "index": 90,
+      "paragraph": "P21",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 457715,
+      "end_ms": 464635,
+      "text": "面对奇麒麟一类空间体系，对方又没有太强的妖精压力时，可以暴飞龙加草猩首发，",
+      "srt_text": "面对奇麒麟一类空间体系，\n对方又没有太强的妖精压力时，可以暴飞龙加草猩首发，",
+      "estimated_reading_units": 34
+    },
+    {
+      "index": 91,
+      "paragraph": "P21",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 464635,
+      "end_ms": 466135,
+      "text": "将军和鬼鱼后排。",
+      "srt_text": "将军和鬼鱼后排。",
+      "estimated_reading_units": 7
+    },
+    {
+      "index": 92,
+      "paragraph": "P21",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 466135,
+      "end_ms": 471315,
+      "text": "用守住和换位拖空间，将军视局面反打，鬼鱼留着接空间结束。",
+      "srt_text": "用守住和换位拖空间，\n将军视局面反打，鬼鱼留着接空间结束。",
+      "estimated_reading_units": 25
+    },
+    {
+      "index": 93,
+      "paragraph": "P21",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 471315,
+      "end_ms": 477680,
+      "text": "如果对面是爱管侍的精神场地体系，草猩还可以找机会重新进场、覆盖场地。",
+      "srt_text": "如果对面是爱管侍的精神场地体系，\n草猩还可以找机会重新进场、覆盖场地。",
+      "estimated_reading_units": 31
+    },
+    {
+      "index": 94,
+      "paragraph": "P21",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 477680,
+      "end_ms": 484160,
+      "text": "不过奇麒麟的尾甲要单独处理，盖掉精神场地也解除不了尾甲对先制的限制，",
+      "srt_text": "不过奇麒麟的尾甲要单独处理，\n盖掉精神场地也解除不了尾甲对先制的限制，",
+      "estimated_reading_units": 32
+    },
+    {
+      "index": 95,
+      "paragraph": "P21",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 484160,
+      "end_ms": 486860,
+      "text": "不能指望靠换场地就拍出击掌。",
+      "srt_text": "不能指望靠换场地就拍出击掌。",
+      "estimated_reading_units": 13
+    },
+    {
+      "index": 96,
+      "paragraph": "P22",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 487010,
+      "end_ms": 489110,
+      "text": "再补一个排位里的判断。",
+      "srt_text": "再补一个排位里的判断。",
+      "estimated_reading_units": 10
+    },
+    {
+      "index": 97,
+      "paragraph": "P22",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 489110,
+      "end_ms": 495250,
+      "text": "看阵容可以先推测对手赛富豪的速度线，但不能只凭队伍表就断定性格。",
+      "srt_text": "看阵容可以先推测对手赛富豪的速度线，\n但不能只凭队伍表就断定性格。",
+      "estimated_reading_units": 30
+    },
+    {
+      "index": 98,
+      "paragraph": "P22",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 495250,
+      "end_ms": 500630,
+      "text": "对面是内敛时，鬼鱼能自然先手；换成胆小极速，这个优势就没了，",
+      "srt_text": "对面是内敛时，鬼鱼能自然先手；\n换成胆小极速，这个优势就没了，",
+      "estimated_reading_units": 26
+    },
+    {
+      "index": 99,
+      "paragraph": "P22",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 500630,
+      "end_ms": 503730,
+      "text": "需要重新考虑顺风或者将军的作用。",
+      "srt_text": "需要重新考虑顺风或者将军的作用。",
+      "estimated_reading_units": 15
+    },
+    {
+      "index": 100,
+      "paragraph": "P22",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 503730,
+      "end_ms": 510330,
+      "text": "沙暴也是一样：顺风鬼鱼能快过拨沙的固执满速龙头地鼠，却快不过爽朗极速。",
+      "srt_text": "沙暴也是一样：顺风鬼鱼能快过拨沙的固执满速龙头地鼠，\n却快不过爽朗极速。",
+      "estimated_reading_units": 32
+    },
+    {
+      "index": 101,
+      "paragraph": "P22",
+      "chapter": "第四章 实战选出与对局调整",
+      "start_ms": 510330,
+      "end_ms": 516750,
+      "text": "对手有没有其他加速也要一起看，同一只宝可梦，配置不同，处理方式就会变。",
+      "srt_text": "对手有没有其他加速也要一起看，\n同一只宝可梦，配置不同，处理方式就会变。",
+      "estimated_reading_units": 31
+    },
+    {
+      "index": 102,
+      "paragraph": "P23",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 517050,
+      "end_ms": 521790,
+      "text": "操作时最容易纠结的，是暴飞龙这回合到底开不开顺风。",
+      "srt_text": "操作时最容易纠结的，\n是暴飞龙这回合到底开不开顺风。",
+      "estimated_reading_units": 23
+    },
+    {
+      "index": 103,
+      "paragraph": "P23",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 521790,
+      "end_ms": 526170,
+      "text": "如果开完以后，队友能抢先打出关键伤害，就值得开。",
+      "srt_text": "如果开完以后，\n队友能抢先打出关键伤害，就值得开。",
+      "estimated_reading_units": 21
+    },
+    {
+      "index": 104,
+      "paragraph": "P23",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 526170,
+      "end_ms": 533815,
+      "text": "如果对方空间还在，或者自己已经够快，就看看直接巨声、守住躲集火，或者换人会不会更赚。",
+      "srt_text": "如果对方空间还在，或者自己已经够快，\n就看看直接巨声、守住躲集火，或者换人会不会更赚。",
+      "estimated_reading_units": 37
+    },
+    {
+      "index": 105,
+      "paragraph": "P23",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 533815,
+      "end_ms": 537155,
+      "text": "先想好这回合最需要做什么，再点技能。",
+      "srt_text": "先想好这回合最需要做什么，再点技能。",
+      "estimated_reading_units": 16
+    },
+    {
+      "index": 106,
+      "paragraph": "P24",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 537305,
+      "end_ms": 540845,
+      "text": "双Mega一起选出来，也要提前想好进化谁。",
+      "srt_text": "双Mega一起选出来，也要提前想好进化谁。",
+      "estimated_reading_units": 17
+    },
+    {
+      "index": 107,
+      "paragraph": "P24",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 540845,
+      "end_ms": 548425,
+      "text": "需要暴飞龙的飞行AOE和面板，就把Mega交给它；需要花叶蒂强化输出，就让花叶蒂进化，",
+      "srt_text": "需要暴飞龙的飞行AOE和面板，就把Mega交给它；\n需要花叶蒂强化输出，就让花叶蒂进化，",
+      "estimated_reading_units": 37
+    },
+    {
+      "index": 108,
+      "paragraph": "P24",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 548425,
+      "end_ms": 550525,
+      "text": "暴飞龙负责威吓和顺风。",
+      "srt_text": "暴飞龙负责威吓和顺风。",
+      "estimated_reading_units": 10
+    },
+    {
+      "index": 109,
+      "paragraph": "P24",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 550525,
+      "end_ms": 557645,
+      "text": "没进化的那只仍然带着进化石，所以选之前就得想清楚，它保持普通形态能做多少事，",
+      "srt_text": "没进化的那只仍然带着进化石，\n所以选之前就得想清楚，它保持普通形态能做多少事，",
+      "estimated_reading_units": 35
+    },
+    {
+      "index": 110,
+      "paragraph": "P24",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 557645,
+      "end_ms": 559545,
+      "text": "值不值得占这个位置。",
+      "srt_text": "值不值得占这个位置。",
+      "estimated_reading_units": 9
+    },
+    {
+      "index": 111,
+      "paragraph": "P25",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 559695,
+      "end_ms": 561195,
+      "text": "还有守住的使用。",
+      "srt_text": "还有守住的使用。",
+      "estimated_reading_units": 7
+    },
+    {
+      "index": 112,
+      "paragraph": "P25",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 561195,
+      "end_ms": 568140,
+      "text": "这份配置一共五个守住，拖空间、躲集火都很灵活，但要同时看另一格会不会被打穿，",
+      "srt_text": "这份配置一共五个守住，拖空间、\n躲集火都很灵活，但要同时看另一格会不会被打穿，",
+      "estimated_reading_units": 34
+    },
+    {
+      "index": 113,
+      "paragraph": "P25",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 568140,
+      "end_ms": 570040,
+      "text": "对手会不会趁机强化。",
+      "srt_text": "对手会不会趁机强化。",
+      "estimated_reading_units": 9
+    },
+    {
+      "index": 114,
+      "paragraph": "P25",
+      "chapter": "第五章 顺风与进化时机",
+      "start_ms": 570040,
+      "end_ms": 575780,
+      "text": "尤其别把连续守住当成稳定操作，先把下一回合的换位和反打想好。",
+      "srt_text": "尤其别把连续守住当成稳定操作，\n先把下一回合的换位和反打想好。",
+      "estimated_reading_units": 28
+    },
+    {
+      "index": 115,
+      "paragraph": "P26",
+      "chapter": "第六章 总结",
+      "start_ms": 576080,
+      "end_ms": 582860,
+      "text": "回头看这支队，耐久分配要对应具体的出手目标，速度分配要对应想超过的对手。",
+      "srt_text": "回头看这支队，耐久分配要对应具体的出手目标，\n速度分配要对应想超过的对手。",
+      "estimated_reading_units": 33
+    },
+    {
+      "index": 116,
+      "paragraph": "P26",
+      "chapter": "第六章 总结",
+      "start_ms": 582860,
+      "end_ms": 588390,
+      "text": "选出时再围绕这些目标，安排谁开顺风、谁抢场地、谁留到最后收尾，",
+      "srt_text": "选出时再围绕这些目标，安排谁开顺风、\n谁抢场地、谁留到最后收尾，",
+      "estimated_reading_units": 27
+    },
+    {
+      "index": 117,
+      "paragraph": "P26",
+      "chapter": "第六章 总结",
+      "start_ms": 588390,
+      "end_ms": 591090,
+      "text": "配置里的细节才能真正用出来。",
+      "srt_text": "配置里的细节才能真正用出来。",
+      "estimated_reading_units": 13
+    },
+    {
+      "index": 118,
+      "paragraph": "P27",
+      "chapter": "第六章 总结",
+      "start_ms": 591240,
+      "end_ms": 597545,
+      "text": "所以这只重装肉坦暴飞龙的优势，就在于扛住以后还能继续开顺风、打巨声，",
+      "srt_text": "所以这只重装肉坦暴飞龙的优势，\n就在于扛住以后还能继续开顺风、打巨声，",
+      "estimated_reading_units": 31
+    },
+    {
+      "index": 119,
+      "paragraph": "P27",
+      "chapter": "第六章 总结",
+      "start_ms": 597545,
+      "end_ms": 601270,
+      "text": "让草猩、大狃拉的掩护和鬼鱼的爆发接起来。",
+      "srt_text": "让草猩、大狃拉的掩护和鬼鱼的爆发接起来。",
+      "estimated_reading_units": 18
+    },
+    {
+      "index": 120,
+      "paragraph": "P27",
+      "chapter": "第六章 总结",
+      "start_ms": 601270,
+      "end_ms": 604810,
+      "text": "遇到适合花叶蒂的对局，再切换Mega路线。",
+      "srt_text": "遇到适合花叶蒂的对局，再切换Mega路线。",
+      "estimated_reading_units": 17
+    },
+    {
+      "index": 121,
+      "paragraph": "P27",
+      "chapter": "第六章 总结",
+      "start_ms": 604810,
+      "end_ms": 612990,
+      "text": "这就是这支平衡队值得拆解的地方，大家使用时，也可以从暴飞龙多活下来的那一回合开始考虑。",
+      "srt_text": "这就是这支平衡队值得拆解的地方，大家使用时，\n也可以从暴飞龙多活下来的那一回合开始考虑。",
+      "estimated_reading_units": 40
+    }
+  ]
+}
