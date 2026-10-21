@@ -1,0 +1,519 @@
+{
+  "ok": true,
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 0,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 9047040,
+        "duration": "589.000000",
+        "bit_rate": "190793",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "17670",
+        "extradata_size": 52,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/pokemon-vgc-/hyperframes-video/renders/pokemon-vgc-silent.mp4",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "589.000000",
+      "size": "14119567",
+      "bit_rate": "191776",
+      "probe_score": 100,
+      "tags": {
+        "minor_version": "512",
+        "major_brand": "isom",
+        "compatible_brands": "isomiso2avc1mp41",
+        "hyperframes_version": "0.8.183",
+        "hyperframes_renderer": "hyperframes",
+        "encoder": "Lavf61.7.103"
+      }
+    }
+  },
+  "image_checks": [
+    {
+      "check": "midpoint-1",
+      "frame": 163,
+      "mae_rgb": 1.223
+    },
+    {
+      "check": "midpoint-2",
+      "frame": 572,
+      "mae_rgb": 1.16
+    },
+    {
+      "check": "before-cut-2",
+      "frame": 327,
+      "mae_rgb": 1.206
+    },
+    {
+      "check": "after-cut-2",
+      "frame": 328,
+      "mae_rgb": 1.161
+    },
+    {
+      "check": "midpoint-3",
+      "frame": 1128,
+      "mae_rgb": 1.206
+    },
+    {
+      "check": "before-cut-3",
+      "frame": 818,
+      "mae_rgb": 1.159
+    },
+    {
+      "check": "after-cut-3",
+      "frame": 819,
+      "mae_rgb": 1.208
+    },
+    {
+      "check": "midpoint-4",
+      "frame": 1581,
+      "mae_rgb": 1.122
+    },
+    {
+      "check": "before-cut-4",
+      "frame": 1439,
+      "mae_rgb": 1.206
+    },
+    {
+      "check": "after-cut-4",
+      "frame": 1440,
+      "mae_rgb": 1.123
+    },
+    {
+      "check": "midpoint-5",
+      "frame": 1824,
+      "mae_rgb": 1.201
+    },
+    {
+      "check": "before-cut-5",
+      "frame": 1723,
+      "mae_rgb": 1.121
+    },
+    {
+      "check": "after-cut-5",
+      "frame": 1724,
+      "mae_rgb": 1.203
+    },
+    {
+      "check": "midpoint-6",
+      "frame": 2013,
+      "mae_rgb": 1.285
+    },
+    {
+      "check": "before-cut-6",
+      "frame": 1924,
+      "mae_rgb": 1.2
+    },
+    {
+      "check": "after-cut-6",
+      "frame": 1925,
+      "mae_rgb": 1.286
+    },
+    {
+      "check": "midpoint-7",
+      "frame": 2222,
+      "mae_rgb": 1.21
+    },
+    {
+      "check": "before-cut-7",
+      "frame": 2102,
+      "mae_rgb": 1.285
+    },
+    {
+      "check": "after-cut-7",
+      "frame": 2103,
+      "mae_rgb": 1.211
+    },
+    {
+      "check": "midpoint-8",
+      "frame": 2522,
+      "mae_rgb": 1.334
+    },
+    {
+      "check": "before-cut-8",
+      "frame": 2342,
+      "mae_rgb": 1.21
+    },
+    {
+      "check": "after-cut-8",
+      "frame": 2343,
+      "mae_rgb": 1.335
+    },
+    {
+      "check": "midpoint-9",
+      "frame": 2854,
+      "mae_rgb": 1.204
+    },
+    {
+      "check": "before-cut-9",
+      "frame": 2702,
+      "mae_rgb": 1.333
+    },
+    {
+      "check": "after-cut-9",
+      "frame": 2703,
+      "mae_rgb": 1.206
+    },
+    {
+      "check": "midpoint-10",
+      "frame": 3118,
+      "mae_rgb": 1.407
+    },
+    {
+      "check": "before-cut-10",
+      "frame": 3005,
+      "mae_rgb": 1.204
+    },
+    {
+      "check": "after-cut-10",
+      "frame": 3006,
+      "mae_rgb": 1.41
+    },
+    {
+      "check": "midpoint-11",
+      "frame": 3544,
+      "mae_rgb": 1.234
+    },
+    {
+      "check": "before-cut-11",
+      "frame": 3230,
+      "mae_rgb": 1.396
+    },
+    {
+      "check": "after-cut-11",
+      "frame": 3231,
+      "mae_rgb": 1.245
+    },
+    {
+      "check": "midpoint-12",
+      "frame": 4271,
+      "mae_rgb": 1.241
+    },
+    {
+      "check": "before-cut-12",
+      "frame": 3857,
+      "mae_rgb": 1.234
+    },
+    {
+      "check": "after-cut-12",
+      "frame": 3858,
+      "mae_rgb": 1.242
+    },
+    {
+      "check": "midpoint-13",
+      "frame": 5131,
+      "mae_rgb": 1.358
+    },
+    {
+      "check": "before-cut-13",
+      "frame": 4684,
+      "mae_rgb": 1.24
+    },
+    {
+      "check": "after-cut-13",
+      "frame": 4685,
+      "mae_rgb": 1.36
+    },
+    {
+      "check": "midpoint-14",
+      "frame": 5815,
+      "mae_rgb": 1.346
+    },
+    {
+      "check": "before-cut-14",
+      "frame": 5578,
+      "mae_rgb": 1.358
+    },
+    {
+      "check": "after-cut-14",
+      "frame": 5579,
+      "mae_rgb": 1.347
+    },
+    {
+      "check": "midpoint-15",
+      "frame": 6258,
+      "mae_rgb": 1.378
+    },
+    {
+      "check": "before-cut-15",
+      "frame": 6052,
+      "mae_rgb": 1.345
+    },
+    {
+      "check": "after-cut-15",
+      "frame": 6053,
+      "mae_rgb": 1.38
+    },
+    {
+      "check": "midpoint-16",
+      "frame": 7149,
+      "mae_rgb": 1.412
+    },
+    {
+      "check": "before-cut-16",
+      "frame": 6465,
+      "mae_rgb": 1.378
+    },
+    {
+      "check": "after-cut-16",
+      "frame": 6466,
+      "mae_rgb": 1.414
+    },
+    {
+      "check": "midpoint-17",
+      "frame": 8156,
+      "mae_rgb": 1.329
+    },
+    {
+      "check": "before-cut-17",
+      "frame": 7834,
+      "mae_rgb": 1.411
+    },
+    {
+      "check": "after-cut-17",
+      "frame": 7835,
+      "mae_rgb": 1.331
+    },
+    {
+      "check": "midpoint-18",
+      "frame": 8899,
+      "mae_rgb": 1.436
+    },
+    {
+      "check": "before-cut-18",
+      "frame": 8479,
+      "mae_rgb": 1.329
+    },
+    {
+      "check": "after-cut-18",
+      "frame": 8480,
+      "mae_rgb": 1.438
+    },
+    {
+      "check": "midpoint-19",
+      "frame": 9632,
+      "mae_rgb": 1.344
+    },
+    {
+      "check": "before-cut-19",
+      "frame": 9319,
+      "mae_rgb": 1.436
+    },
+    {
+      "check": "after-cut-19",
+      "frame": 9320,
+      "mae_rgb": 1.345
+    },
+    {
+      "check": "midpoint-20",
+      "frame": 10124,
+      "mae_rgb": 1.42
+    },
+    {
+      "check": "before-cut-20",
+      "frame": 9945,
+      "mae_rgb": 1.344
+    },
+    {
+      "check": "after-cut-20",
+      "frame": 9946,
+      "mae_rgb": 1.421
+    },
+    {
+      "check": "midpoint-21",
+      "frame": 10756,
+      "mae_rgb": 1.393
+    },
+    {
+      "check": "before-cut-21",
+      "frame": 10303,
+      "mae_rgb": 1.42
+    },
+    {
+      "check": "after-cut-21",
+      "frame": 10304,
+      "mae_rgb": 1.395
+    },
+    {
+      "check": "midpoint-22",
+      "frame": 11767,
+      "mae_rgb": 1.373
+    },
+    {
+      "check": "before-cut-22",
+      "frame": 11209,
+      "mae_rgb": 1.393
+    },
+    {
+      "check": "after-cut-22",
+      "frame": 11210,
+      "mae_rgb": 1.375
+    },
+    {
+      "check": "midpoint-23",
+      "frame": 12761,
+      "mae_rgb": 1.373
+    },
+    {
+      "check": "before-cut-23",
+      "frame": 12326,
+      "mae_rgb": 1.373
+    },
+    {
+      "check": "after-cut-23",
+      "frame": 12327,
+      "mae_rgb": 1.375
+    },
+    {
+      "check": "midpoint-24",
+      "frame": 14051,
+      "mae_rgb": 1.316
+    },
+    {
+      "check": "before-cut-24",
+      "frame": 13197,
+      "mae_rgb": 1.373
+    },
+    {
+      "check": "after-cut-24",
+      "frame": 13198,
+      "mae_rgb": 1.318
+    },
+    {
+      "check": "midpoint-25",
+      "frame": 15197,
+      "mae_rgb": 1.394
+    },
+    {
+      "check": "before-cut-25",
+      "frame": 14905,
+      "mae_rgb": 1.316
+    },
+    {
+      "check": "after-cut-25",
+      "frame": 14906,
+      "mae_rgb": 1.396
+    },
+    {
+      "check": "midpoint-26",
+      "frame": 15810,
+      "mae_rgb": 1.444
+    },
+    {
+      "check": "before-cut-26",
+      "frame": 15489,
+      "mae_rgb": 1.394
+    },
+    {
+      "check": "after-cut-26",
+      "frame": 15490,
+      "mae_rgb": 1.445
+    },
+    {
+      "check": "midpoint-27",
+      "frame": 16364,
+      "mae_rgb": 1.229
+    },
+    {
+      "check": "before-cut-27",
+      "frame": 16130,
+      "mae_rgb": 1.443
+    },
+    {
+      "check": "after-cut-27",
+      "frame": 16131,
+      "mae_rgb": 1.23
+    },
+    {
+      "check": "midpoint-28",
+      "frame": 17134,
+      "mae_rgb": 1.266
+    },
+    {
+      "check": "before-cut-28",
+      "frame": 16598,
+      "mae_rgb": 1.229
+    },
+    {
+      "check": "after-cut-28",
+      "frame": 16599,
+      "mae_rgb": 1.268
+    },
+    {
+      "check": "opening",
+      "frame": 0,
+      "mae_rgb": 1.232
+    },
+    {
+      "check": "last-frame",
+      "frame": 17669,
+      "mae_rgb": 1.266
+    }
+  ],
+  "max_mae_rgb": 1.445
+}

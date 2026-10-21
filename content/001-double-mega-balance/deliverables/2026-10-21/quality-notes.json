@@ -1,0 +1,57 @@
+{
+  "engine": "HyperFrames 0.8.183",
+  "browserSkipped": false,
+  "lint_errors": 0,
+  "runtime_errors": 0,
+  "layout_errors": 0,
+  "layout_samples": [
+    5.452,
+    19.093,
+    37.625,
+    52.71,
+    60.8,
+    67.115,
+    74.082,
+    84.08,
+    95.135,
+    103.935,
+    118.138,
+    142.368,
+    171.042,
+    193.85,
+    208.627,
+    238.333,
+    271.897,
+    296.65,
+    321.092,
+    337.485,
+    358.543,
+    392.257,
+    425.397,
+    468.382,
+    506.577,
+    527,
+    545.487,
+    571.135
+  ],
+  "review": "28 segment midpoint snapshots visually inspected; approved designs preserved",
+  "warnings": "Original gold/gray secondary text contrast warnings and structural lint warnings retained; no content redesign. Decorative SVG ring overflow is intentional.",
+  "static_capture": "No moving media or CSS animation. After inspecting all 28 scene midpoint snapshots, static-frame reuse enabled with HF_STATIC_DEDUP_VERIFY=false; final encoded scene/cut frames checked independently.",
+  "final_all_scene_check": {
+    "ok": true,
+    "browserSkipped": false,
+    "errors": {
+      "lint": 0,
+      "runtime": 0,
+      "layout": 0,
+      "contrast": 0
+    }
+  },
+  "encoded_video_checks": {
+    "ok": true,
+    "count": 84,
+    "max_mae_rgb": 1.445,
+    "full_decode_errors": 0,
+    "audio_streams": 0
+  }
+}
