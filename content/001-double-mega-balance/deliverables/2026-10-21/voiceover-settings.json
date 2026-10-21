@@ -1,0 +1,21 @@
+{
+  "language": "zh-CN",
+  "requested_voice": "中文中低音男声",
+  "engine": "Kokoro ONNX 0.6.1",
+  "voice": "zm_yunyang",
+  "input": "口播稿-单段连续配音版.txt",
+  "characters": 3310,
+  "single_paragraph": true,
+  "verbatim_text_verified": true,
+  "speed": 1.0,
+  "sentence_pause_seconds": 0.12,
+  "clause_pause_seconds": 0.04,
+  "synthesis": "整篇作为连续输入，使用上下文重叠窗口衔接，不按SRT条目合成",
+  "pronunciation": "中文专名自定义分词与读音；拉丁字母缩写及英文作者名使用英文发音前端；原文未改",
+  "model_source": "https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.1",
+  "model_sha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+  "model_license": "Apache-2.0",
+  "runtime_license": "MIT",
+  "sample_median_f0_rough_hz": 126.3,
+  "state": "已完成"
+}

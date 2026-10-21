@@ -14,3 +14,14 @@ SRT为配音前估算，采用约300朗读单位/分钟与短停顿；同段首�
 - [字幕时间修订对照](subtitle-timing-review-v2.html)
 
 旧SRT版本保留于history/srt-v1。实际音频若有软件自动静音，需调整合成器设置或音频本身。
+
+## 连续配音成品
+
+已将原口播合并为单段连续输入，生成中文中低音男声配音，实际时长7分42.9秒。
+
+- [下载完整MP3](narration-full-male.mp3)
+- [下载单段正文](narration-single-paragraph.txt)
+- [下载配音包](narration-full-package.zip)
+- [生成说明](voiceover-readme.md)
+
+旧SRT为估算，与这次合成配音的实际时间不一致；不要直接当作精确对齐字幕。

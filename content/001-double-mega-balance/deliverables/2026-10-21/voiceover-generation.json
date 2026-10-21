@@ -1,0 +1,20 @@
+{
+  "engine": "Kokoro ONNX",
+  "voice": "zm_yunyang",
+  "language": "普通话男声",
+  "requested_register": "中低音",
+  "sample_rate": 24000,
+  "channels": 1,
+  "raw_duration_seconds": 463.4248333333333,
+  "final_wav_duration_seconds": 462.80241666666666,
+  "mp3_duration_seconds": 462.864,
+  "mp3_bytes": 7406252,
+  "original_text_characters": 3310,
+  "input_single_paragraph": true,
+  "long_silences_detected_before": 1,
+  "silences_over_0_8_seconds_after": [],
+  "audio_finite": true,
+  "validation": "文件解码、波形、时长与静音检测；未做逐字人工听校",
+  "sha256_mp3": "3c2e41c19380dff1e42dab19e84a6c745ca9b8e5cd7a4f33bc0c2bb30109bde8",
+  "phoneme_timing_reference": "phoneme-timing.json对应后处理前原始音频；有静音收紧时不能直接沿用为最终字幕时间轴"
+}
