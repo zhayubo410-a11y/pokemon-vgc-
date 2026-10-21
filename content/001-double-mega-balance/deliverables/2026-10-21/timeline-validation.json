@@ -1,0 +1,13 @@
+{
+  "status": "validated",
+  "subtitle_cue_count": 121,
+  "unique_frames_used": 26,
+  "timeline_segments": 28,
+  "duration_ms": 588990,
+  "unassigned_cues": [],
+  "duplicate_cues": [],
+  "gaps_ms": 0,
+  "overlaps_ms": 0,
+  "changes_to_source_html": false,
+  "rendering_started": false
+}

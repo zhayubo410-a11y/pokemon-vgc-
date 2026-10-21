@@ -1,0 +1,1098 @@
+{
+  "status": "时间对照表待用户确认；未安装HyperFrames、未修改渲染工程、未渲染",
+  "srt_version": "v3 每句间再紧缩0.2秒",
+  "srt_sha256": "feb50b3bbb6c2e356949585e315ec7dd253ecc3ec212e7de57cea70668341ed8",
+  "source_html": "complete-review/全部画面-独立审阅版.html",
+  "html_sha256": "cce8a63bfd67a87b2f46911f11484ae8689ef66105783ff149ab4d771c572842",
+  "duration_ms": 588990,
+  "unique_frames": 26,
+  "segments_count": 28,
+  "subtitle_cues": 121,
+  "audio_policy": "无配音、无音乐、无音效，最终目标为无音轨MP4",
+  "gaps_policy": "字幕段间/章间0.15/0.3秒维持原SRT，画面在间隙持续保持前一张，至下一条字幕起点才切换，不插黑场。",
+  "switching_policy": "在现有SRT条目边界切换；本表不推算条目内逐字时间。后续若需帧率量化应单独说明毫秒到帧的舍入。",
+  "reuse_plan": "R12和R21各出现两次；前置只聚焦相关栏，后文完整展开；仅提出聚焦建议，原HTML尚未修改。",
+  "segments": [
+    {
+      "segment": 1,
+      "frame_id": "R01",
+      "frame_title": "重装肉坦暴飞龙平衡的艺术",
+      "start_ms": 0,
+      "end_ms": 10905,
+      "duration_ms": 10905,
+      "first_cue": 1,
+      "last_cue": 2,
+      "subtitle_start_ms": 0,
+      "subtitle_end_ms": 10905,
+      "topic": "封面、八强来源、六只队伍概况",
+      "focus_plan": "主标题、Ryan × Nick、R赛八强与成员总览。",
+      "texts": [
+        {
+          "index": 1,
+          "paragraph": "P01",
+          "text": "今天分享一支R赛八强队伍，来自Ryan与Nick共同打磨的构筑。"
+        },
+        {
+          "index": 2,
+          "paragraph": "P01",
+          "text": "放到宝可梦冠军新赛季来看，六只都是高使用率、单体强度优秀的成员。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 2,
+      "frame_id": "R02",
+      "frame_title": "为什么把暴飞龙做得更肉",
+      "start_ms": 10905,
+      "end_ms": 27280,
+      "duration_ms": 16375,
+      "first_cue": 3,
+      "last_cue": 6,
+      "subtitle_start_ms": 10905,
+      "subtitle_end_ms": 27130,
+      "topic": "耐久分配的切入问题",
+      "focus_plan": "由高速特攻/双刀对比，聚焦偏耐久方向。",
+      "texts": [
+        {
+          "index": 3,
+          "paragraph": "P01",
+          "text": "这次最值得拆解的，是这只重装肉坦暴飞龙。"
+        },
+        {
+          "index": 4,
+          "paragraph": "P01",
+          "text": "除了高速特攻和双刀，暴飞龙还有这种偏耐久的分配：宁愿少分一些特攻，也要让它更肉、更能扛。"
+        },
+        {
+          "index": 5,
+          "paragraph": "P01",
+          "text": "这样分配到底有什么优势？"
+        },
+        {
+          "index": 6,
+          "paragraph": "P01",
+          "text": "接下来我们就结合这支队伍来讲。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 3,
+      "frame_id": "R03",
+      "frame_title": "六只成员的协作分工",
+      "start_ms": 27280,
+      "end_ms": 47970,
+      "duration_ms": 20690,
+      "first_cue": 7,
+      "last_cue": 10,
+      "subtitle_start_ms": 27280,
+      "subtitle_end_ms": 47670,
+      "topic": "六只分工与协作",
+      "focus_plan": "按龙、掩护手、输出手、花叶蒂路线逐项强调。",
+      "texts": [
+        {
+          "index": 7,
+          "paragraph": "P02",
+          "text": "这支队的分工很清楚。"
+        },
+        {
+          "index": 8,
+          "paragraph": "P02",
+          "text": "暴飞龙负责承伤、输出和顺风，草猩与大狃拉用击掌和换位给它创造出手机会，"
+        },
+        {
+          "index": 9,
+          "paragraph": "P02",
+          "text": "仆刀将军反制威吓、补上恶钢打击，花叶蒂提供另一条Mega路线，鬼鱼补足爆发。"
+        },
+        {
+          "index": 10,
+          "paragraph": "P02",
+          "text": "几只之间能互相掩护，暴飞龙多撑一回合，队友就多一次接上输出的机会。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 4,
+      "frame_id": "R04",
+      "frame_title": "击掌与威吓创造行动机会",
+      "start_ms": 47970,
+      "end_ms": 57450,
+      "duration_ms": 9480,
+      "first_cue": 11,
+      "last_cue": 12,
+      "subtitle_start_ms": 47970,
+      "subtitle_end_ms": 57450,
+      "topic": "击掌、进化前威吓与耐久留场",
+      "focus_plan": "保持双打站位，依次强调三项行动机会来源。",
+      "texts": [
+        {
+          "index": 11,
+          "paragraph": "P03",
+          "text": "先来讲讲基本的展开逻辑。"
+        },
+        {
+          "index": 12,
+          "paragraph": "P03",
+          "text": "击掌奇袭限制对方一侧的行动，暴飞龙进化前的威吓降低物理压力，再靠自身耐久站住场。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 5,
+      "frame_id": "R05",
+      "frame_title": "站住后再决定顺风或巨声",
+      "start_ms": 57450,
+      "end_ms": 64150,
+      "duration_ms": 6700,
+      "first_cue": 13,
+      "last_cue": 13,
+      "subtitle_start_ms": 57450,
+      "subtitle_end_ms": 64150,
+      "topic": "顺风或巨声的条件选择",
+      "focus_plan": "按缺速度/已有优势，强调对应分支。",
+      "texts": [
+        {
+          "index": 13,
+          "paragraph": "P03",
+          "text": "接下来要看对面：需要抢速度，就开顺风；已经有出手优势，就用巨声压低两边血线。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 6,
+      "frame_id": "R06A",
+      "frame_title": "顺风后的队伍速度总览",
+      "start_ms": 64150,
+      "end_ms": 70080,
+      "duration_ms": 5930,
+      "first_cue": 14,
+      "last_cue": 14,
+      "subtitle_start_ms": 64150,
+      "subtitle_end_ms": 69930,
+      "topic": "顺风收益补充展示",
+      "focus_plan": "约5.93秒：五只队友绿色速度表作为收益示意；字幕不逐个朗读数值，不额外插入停顿。",
+      "texts": [
+        {
+          "index": 14,
+          "paragraph": "P03",
+          "text": "耐久的收益就在这里，多活下来的这一回合，能让你把想做的事做出来。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 7,
+      "frame_id": "R12",
+      "frame_title": "鬼鱼②：爆发、补刀与站场代价",
+      "start_ms": 70080,
+      "end_ms": 78085,
+      "duration_ms": 8005,
+      "first_cue": 15,
+      "last_cue": 16,
+      "subtitle_start_ms": 70080,
+      "subtitle_end_ms": 78085,
+      "topic": "前置复用：巨声压血与喷射补刀",
+      "focus_plan": "只聚焦左栏“队友压血→进入收尾线→尝试喷射”；右侧宝珠/反作用力区域建议淡化，待后文展开。此处不把同回合两招画为先巨声后喷射。",
+      "texts": [
+        {
+          "index": 15,
+          "paragraph": "P04",
+          "text": "比如对面有气势披带，暴飞龙先用巨声破掉披带、压低血线，"
+        },
+        {
+          "index": 16,
+          "paragraph": "P04",
+          "text": "下一回合就可能让鬼鱼用水流喷射收掉。"
+        }
+      ],
+      "reused": true
+    },
+    {
+      "segment": 8,
+      "frame_id": "R06B",
+      "frame_title": "三个先制招式",
+      "start_ms": 78085,
+      "end_ms": 90075,
+      "duration_ms": 11990,
+      "first_cue": 17,
+      "last_cue": 18,
+      "subtitle_start_ms": 78085,
+      "subtitle_end_ms": 89925,
+      "topic": "喷射的优先度与收尾条件",
+      "focus_plan": "重点为幽尾玄鱼/水流喷射；青草滑梯、突袭仅作为其他先制手段并列，不额外讲解。沿用画面上的发动条件。",
+      "texts": [
+        {
+          "index": 17,
+          "paragraph": "P04",
+          "text": "这里注意回合顺序：喷射有优先度，通常会比同回合的巨声先出手。"
+        },
+        {
+          "index": 18,
+          "paragraph": "P04",
+          "text": "所以这套配合要先压血，再等下一回合补刀；能不能收掉，还得看对面剩多少血。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 9,
+      "frame_id": "R21",
+      "frame_title": "选出对局③：空间路线与条件修正",
+      "start_ms": 90075,
+      "end_ms": 100195,
+      "duration_ms": 10120,
+      "first_cue": 19,
+      "last_cue": 20,
+      "subtitle_start_ms": 90075,
+      "subtitle_end_ms": 100195,
+      "topic": "前置复用：空间应对",
+      "focus_plan": "只聚焦策略栏“守住/换位→空间结束后反打”；首发后排与下沿速度卡建议淡化，后文再详讲。不增加空间剩余回合数。",
+      "texts": [
+        {
+          "index": 19,
+          "paragraph": "P05",
+          "text": "如果对方已经开出空间，就先考虑守住和换位，尽量少让对手打出有效伤害，等空间结束再反打。"
+        },
+        {
+          "index": 20,
+          "paragraph": "P05",
+          "text": "暴飞龙这时不一定要点顺风。"
+        }
+      ],
+      "reused": true
+    },
+    {
+      "segment": 10,
+      "frame_id": "R07",
+      "frame_title": "花叶蒂提供另一条Mega路线",
+      "start_ms": 100195,
+      "end_ms": 107675,
+      "duration_ms": 7480,
+      "first_cue": 21,
+      "last_cue": 21,
+      "subtitle_start_ms": 100195,
+      "subtitle_end_ms": 107375,
+      "topic": "花叶蒂替代Mega路线",
+      "focus_plan": "使用Mega花叶蒂立绘，直接输出/冥想分支。",
+      "texts": [
+        {
+          "index": 21,
+          "paragraph": "P05",
+          "text": "而遇到花叶蒂更好发挥的对局，也可以把Mega交给它，走妖精输出或者冥想强化的路线。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 11,
+      "frame_id": "R08",
+      "frame_title": "暴飞龙①：完整配置与特性变化",
+      "start_ms": 107675,
+      "end_ms": 128600,
+      "duration_ms": 20925,
+      "first_cue": 22,
+      "last_cue": 26,
+      "subtitle_start_ms": 107675,
+      "subtitle_end_ms": 128450,
+      "topic": "暴飞龙完整配置与特性变化",
+      "focus_plan": "点数与四招→威吓→飞行皮肤及巨声。",
+      "texts": [
+        {
+          "index": 22,
+          "paragraph": "P06",
+          "text": "先看暴飞龙。"
+        },
+        {
+          "index": 23,
+          "paragraph": "P06",
+          "text": "内敛性格，三十一点HP、一点防御、六点特攻、十一点特防、十七点速度，携带暴飞龙进化石。"
+        },
+        {
+          "index": 24,
+          "paragraph": "P06",
+          "text": "四招是巨声、喷射火焰、顺风、守住。"
+        },
+        {
+          "index": 25,
+          "paragraph": "P06",
+          "text": "进化前靠威吓缓冲物理压力，进化后特性变成飞行皮肤，巨声也就成了有本系加成的飞行AOE，"
+        },
+        {
+          "index": 26,
+          "paragraph": "P06",
+          "text": "能同时压对面两只的血线。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 12,
+      "frame_id": "R09",
+      "frame_title": "暴飞龙②：耐久与额外行动价值",
+      "start_ms": 128600,
+      "end_ms": 156135,
+      "duration_ms": 27535,
+      "first_cue": 27,
+      "last_cue": 32,
+      "subtitle_start_ms": 128600,
+      "subtitle_end_ms": 155985,
+      "topic": "耐久面板与额外行动",
+      "focus_plan": "201/151/121→条件化耐受目标→若存活后的行动。",
+      "texts": [
+        {
+          "index": 27,
+          "paragraph": "P07",
+          "text": "Mega之后，它有二百零一HP、一百五十一防御和一百二十一特防。"
+        },
+        {
+          "index": 28,
+          "paragraph": "P07",
+          "text": "这套耐久想争取的，就是接下常规未强化Mega暴飞龙的龙之波动，"
+        },
+        {
+          "index": 29,
+          "paragraph": "P07",
+          "text": "面对Mega烈咬陆鲨Z的龙之波动时，也保留存活机会。"
+        },
+        {
+          "index": 30,
+          "paragraph": "P07",
+          "text": "具体能不能扛住，还要看对方配置和自己的剩余血量。"
+        },
+        {
+          "index": 31,
+          "paragraph": "P07",
+          "text": "内战里，只要这一轮没被带走，就可能再开一次顺风，或者多打一发巨声，"
+        },
+        {
+          "index": 32,
+          "paragraph": "P07",
+          "text": "给队友留下更好收尾的局面。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 13,
+      "frame_id": "R10",
+      "frame_title": "暴飞龙③：速度、火招与第四招取舍",
+      "start_ms": 156135,
+      "end_ms": 185950,
+      "duration_ms": 29815,
+      "first_cue": 33,
+      "last_cue": 38,
+      "subtitle_start_ms": 156135,
+      "subtitle_end_ms": 185800,
+      "topic": "速度、火招打击面、第四招取舍",
+      "focus_plan": "157对156→Mega具甲武者→守住/流星群赛前取舍。",
+      "texts": [
+        {
+          "index": 33,
+          "paragraph": "P08",
+          "text": "速度方面，Mega后一百五十七，刚好超过没有额外加速的极速洗翠风速狗，一百五十六。"
+        },
+        {
+          "index": 34,
+          "paragraph": "P08",
+          "text": "喷射火焰则补充对钢系的打击，比如Mega具甲武者就可以用这招针对；"
+        },
+        {
+          "index": 35,
+          "paragraph": "P08",
+          "text": "这里说的是Mega后的虫钢形态。"
+        },
+        {
+          "index": 36,
+          "paragraph": "P08",
+          "text": "第四招可以在组队时按需求选守住或流星群。"
+        },
+        {
+          "index": 37,
+          "paragraph": "P08",
+          "text": "这份配置带守住，用来避开集火、拖空间；换成流星群，没把Mega交给暴飞龙时，"
+        },
+        {
+          "index": 38,
+          "paragraph": "P08",
+          "text": "也有龙系本系招式能打，但就要接受少一个守住的代价。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 14,
+      "frame_id": "R11",
+      "frame_title": "幽尾玄鱼：完整配置与速度参照",
+      "start_ms": 185950,
+      "end_ms": 201750,
+      "duration_ms": 15800,
+      "first_cue": 39,
+      "last_cue": 42,
+      "subtitle_start_ms": 185950,
+      "subtitle_end_ms": 201750,
+      "topic": "幽尾玄鱼配置与小型速度参照",
+      "focus_plan": "保持最新配置主导布局，右侧两条速度尺依口播强调。",
+      "texts": [
+        {
+          "index": 39,
+          "paragraph": "P10",
+          "text": "再看幽尾玄鱼，也就是鬼鱼。"
+        },
+        {
+          "index": 40,
+          "paragraph": "P10",
+          "text": "两个重点，爽朗极速，加生命宝珠。"
+        },
+        {
+          "index": 41,
+          "paragraph": "P10",
+          "text": "一百四十三速能超过没有额外加速的内敛满速赛富豪，但慢于胆小极速。"
+        },
+        {
+          "index": 42,
+          "paragraph": "P10",
+          "text": "内战里比固执满速鬼鱼快，碰到同样爽朗极速的才需要拼同速。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 15,
+      "frame_id": "R12",
+      "frame_title": "鬼鱼②：爆发、补刀与站场代价",
+      "start_ms": 201750,
+      "end_ms": 215505,
+      "duration_ms": 13755,
+      "first_cue": 43,
+      "last_cue": 44,
+      "subtitle_start_ms": 201750,
+      "subtitle_end_ms": 215355,
+      "topic": "正式展开：爆发与站场代价",
+      "focus_plan": "展示完整左右两栏：四招用途及宝珠/波动冲自损；与前置复用形成呼应。",
+      "texts": [
+        {
+          "index": 43,
+          "paragraph": "P10",
+          "text": "适应力配合波动冲、扫墓提供爆发，水流喷射接队友压血，守住等出手机会。"
+        },
+        {
+          "index": 44,
+          "paragraph": "P10",
+          "text": "物防投入也是为了尽量多打一发；宝珠扣血加上波动冲的反作用力，让它没法一直站场换血。"
+        }
+      ],
+      "reused": true
+    },
+    {
+      "segment": 16,
+      "frame_id": "R13",
+      "frame_title": "轰擂金刚猩：配置、投入与场地轮转",
+      "start_ms": 215505,
+      "end_ms": 261160,
+      "duration_ms": 45655,
+      "first_cue": 45,
+      "last_cue": 53,
+      "subtitle_start_ms": 215505,
+      "subtitle_end_ms": 261010,
+      "topic": "轰擂金刚猩配置、投入与场地轮转",
+      "focus_plan": "同一张作战卡持续显示；配置→15点攻击/速度115→退出再入场→接地回复条件。",
+      "texts": [
+        {
+          "index": 45,
+          "paragraph": "P11",
+          "text": "接着是轰擂金刚猩，后面简称草猩。"
+        },
+        {
+          "index": 46,
+          "paragraph": "P11",
+          "text": "固执性格、青草制造者、奇迹种子，四招木槌、青草滑梯、急速折返、击掌奇袭。"
+        },
+        {
+          "index": 47,
+          "paragraph": "P11",
+          "text": "草系输出之外，这只更重要的是抢场地、打击掌，再用急速折返把队友换上来。"
+        },
+        {
+          "index": 48,
+          "paragraph": "P11",
+          "text": "十五点攻击卡在性格跳点，速度一百一十五，是作者为了避开原先和部分美纳斯同速而做的调整。"
+        },
+        {
+          "index": 49,
+          "paragraph": "P12",
+          "text": "尤其面对爱管侍，急速折返就很有价值。"
+        },
+        {
+          "index": 50,
+          "paragraph": "P12",
+          "text": "草猩先退下来，找机会重新进场，用青草场地盖掉精神场地，"
+        },
+        {
+          "index": 51,
+          "paragraph": "P12",
+          "text": "击掌、青草滑梯和水流喷射才更好发挥。"
+        },
+        {
+          "index": 52,
+          "paragraph": "P12",
+          "text": "场地是在草猩再次入场时改的，所以要给它留好回来的位置。"
+        },
+        {
+          "index": 53,
+          "paragraph": "P12",
+          "text": "还有一点，草场也会给对手的接地成员回血；暴飞龙通常不接地，吃不到这份回复。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 17,
+      "frame_id": "R14",
+      "frame_title": "大狃拉①：完整配置与内战速度",
+      "start_ms": 261160,
+      "end_ms": 282635,
+      "duration_ms": 21475,
+      "first_cue": 54,
+      "last_cue": 57,
+      "subtitle_start_ms": 261160,
+      "subtitle_end_ms": 282485,
+      "topic": "大狃拉配置与速度线",
+      "focus_plan": "配置为主；184/185/189及内战后手规划。",
+      "texts": [
+        {
+          "index": 54,
+          "paragraph": "P13",
+          "text": "大狃拉是爽朗性格、毒手、气势披带，四招克命爪、近身战、击掌奇袭、守住。"
+        },
+        {
+          "index": 55,
+          "paragraph": "P13",
+          "text": "速度一百八十五，比没有额外加速的极速风妖精快一点，但低于极速大狃拉的一百八十九。"
+        },
+        {
+          "index": 56,
+          "paragraph": "P13",
+          "text": "所以打内战时，先按自己后手来规划更稳妥。"
+        },
+        {
+          "index": 57,
+          "paragraph": "P13",
+          "text": "对面如果是常见的极速分配，就别把这回合押在拼同速上。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 18,
+      "frame_id": "R15",
+      "frame_title": "大狃拉②：毒手收益与披带保留条件",
+      "start_ms": 282635,
+      "end_ms": 310665,
+      "duration_ms": 28030,
+      "first_cue": 58,
+      "last_cue": 64,
+      "subtitle_start_ms": 282635,
+      "subtitle_end_ms": 310515,
+      "topic": "毒手与披带条件",
+      "focus_plan": "30%随机收益→跨回合回满且披带未消耗。",
+      "texts": [
+        {
+          "index": 58,
+          "paragraph": "P14",
+          "text": "毒手的收益也很值得讲。"
+        },
+        {
+          "index": 59,
+          "paragraph": "P14",
+          "text": "符合条件的接触攻击有三成机会让对手中毒，哪怕只是拍一下击掌，触发后再配合守住和轮转，"
+        },
+        {
+          "index": 60,
+          "paragraph": "P14",
+          "text": "也可能把难打的残局锁下来。"
+        },
+        {
+          "index": 61,
+          "paragraph": "P14",
+          "text": "当然，选招时不能默认这次一定触发。"
+        },
+        {
+          "index": 62,
+          "paragraph": "P14",
+          "text": "披带还有个设计思路：第一回合吃过击掌，如果草场刚好把血回满，而且披带还没用掉，"
+        },
+        {
+          "index": 63,
+          "paragraph": "P14",
+          "text": "下一回合它就仍然能生效。"
+        },
+        {
+          "index": 64,
+          "paragraph": "P14",
+          "text": "要看清的是有没有回满，中间又有没有额外掉血。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 19,
+      "frame_id": "R16",
+      "frame_title": "花叶蒂①：配置面板与输出/冥想选择",
+      "start_ms": 310665,
+      "end_ms": 331520,
+      "duration_ms": 20855,
+      "first_cue": 65,
+      "last_cue": 68,
+      "subtitle_start_ms": 310665,
+      "subtitle_end_ms": 331520,
+      "topic": "花叶蒂配置与输出/强化",
+      "focus_plan": "Mega形态配置、面板、直接输出与冥想。",
+      "texts": [
+        {
+          "index": 65,
+          "paragraph": "P15",
+          "text": "花叶蒂是大胆性格，携带花叶蒂进化石，四招月亮之力、魔法闪耀、冥想、守住。"
+        },
+        {
+          "index": 66,
+          "paragraph": "P15",
+          "text": "二十三点防御配合性格，Mega后物防达到一百四十三，特攻一百八十一，速度一百三十一，"
+        },
+        {
+          "index": 67,
+          "paragraph": "P15",
+          "text": "超过无额外加速的固执满速鬼鱼。"
+        },
+        {
+          "index": 68,
+          "paragraph": "P15",
+          "text": "有机会可以直接用妖精招式打伤害，也可以靠队友掩护冥想。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 20,
+      "frame_id": "R17",
+      "frame_title": "花叶蒂②：花幕保护与Mega时机",
+      "start_ms": 331520,
+      "end_ms": 343450,
+      "duration_ms": 11930,
+      "first_cue": 69,
+      "last_cue": 71,
+      "subtitle_start_ms": 331520,
+      "subtitle_end_ms": 343300,
+      "topic": "花幕与Mega时机",
+      "focus_plan": "永恒之花花叶蒂→Mega花叶蒂；区分两次威吓结算时机。",
+      "texts": [
+        {
+          "index": 69,
+          "paragraph": "P15",
+          "text": "和草猩一起在场时，进化前的花幕还能保护草猩不被威吓；但Mega后特性变成妖精气场，"
+        },
+        {
+          "index": 70,
+          "paragraph": "P15",
+          "text": "后续的威吓就挡不住了。"
+        },
+        {
+          "index": 71,
+          "paragraph": "P15",
+          "text": "想利用这层保护，要注意进化时机。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 21,
+      "frame_id": "R18",
+      "frame_title": "仆刀将军：完整配置与三个操作价值",
+      "start_ms": 343450,
+      "end_ms": 373635,
+      "duration_ms": 30185,
+      "first_cue": 72,
+      "last_cue": 78,
+      "subtitle_start_ms": 343450,
+      "subtitle_end_ms": 373335,
+      "topic": "仆刀将军完整配置与三项价值",
+      "focus_plan": "同一张卡片：198攻击/顺风158→莲蒲果→不服输→突袭。",
+      "texts": [
+        {
+          "index": 72,
+          "paragraph": "P17",
+          "text": "最后是仆刀将军，固执性格、不服输、莲蒲果，四招仆刀、突袭、铁头、守住。"
+        },
+        {
+          "index": 73,
+          "paragraph": "P17",
+          "text": "一百九十八攻击保证物理输出，七十九速度在顺风下变成一百五十八，"
+        },
+        {
+          "index": 74,
+          "paragraph": "P17",
+          "text": "能超过没有额外加速的极速洗翠风速狗。"
+        },
+        {
+          "index": 75,
+          "paragraph": "P17",
+          "text": "莲蒲果，也就是抗斗果，能减轻一次效果绝佳的格斗伤害，为反打争取机会；能不能出手，"
+        },
+        {
+          "index": 76,
+          "paragraph": "P17",
+          "text": "仍要看血量和对方集火。"
+        },
+        {
+          "index": 77,
+          "paragraph": "P17",
+          "text": "不服输则能反制威吓，让对手换威吓手时有所顾忌。"
+        },
+        {
+          "index": 78,
+          "paragraph": "P17",
+          "text": "最后再靠突袭，补上先制收尾。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 22,
+      "frame_id": "R19",
+      "frame_title": "选出对局①：判断顺序与中速路线",
+      "start_ms": 373635,
+      "end_ms": 410880,
+      "duration_ms": 37245,
+      "first_cue": 79,
+      "last_cue": 84,
+      "subtitle_start_ms": 373635,
+      "subtitle_end_ms": 410730,
+      "topic": "选出判断与中速路线",
+      "focus_plan": "判断链→首发/后排/策略→另一格威胁；明确教学推演。",
+      "texts": [
+        {
+          "index": 79,
+          "paragraph": "P18",
+          "text": "六只讲完，再来看实战怎么选四只。"
+        },
+        {
+          "index": 80,
+          "paragraph": "P18",
+          "text": "先看对面靠什么输出、怎么控速，有没有限制击掌和先制的手段，再决定这局让谁Mega。"
+        },
+        {
+          "index": 81,
+          "paragraph": "P18",
+          "text": "下面三组是按这份配置推演的选出思路，实际用的时候，要结合对面六只调整。"
+        },
+        {
+          "index": 82,
+          "paragraph": "P19",
+          "text": "面对中速进攻，对方又不太好阻止顺风时，可以暴飞龙加大狃拉首发，鬼鱼和将军后排。"
+        },
+        {
+          "index": 83,
+          "paragraph": "P19",
+          "text": "大狃拉用击掌掩护，暴飞龙看局面开顺风或者直接巨声，后排再接着打。"
+        },
+        {
+          "index": 84,
+          "paragraph": "P19",
+          "text": "如果拍住一只以后，另一只仍然能带走暴飞龙，就要先保住它，别见到这个首发就固定击掌加顺风。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 23,
+      "frame_id": "R20",
+      "frame_title": "选出对局②：花叶蒂双击掌路线",
+      "start_ms": 410880,
+      "end_ms": 439915,
+      "duration_ms": 29035,
+      "first_cue": 85,
+      "last_cue": 89,
+      "subtitle_start_ms": 410880,
+      "subtitle_end_ms": 439765,
+      "topic": "花叶蒂双击掌路线",
+      "focus_plan": "首发、固定大狃拉、鬼鱼/将军二选一及无顺风限制。",
+      "texts": [
+        {
+          "index": 85,
+          "paragraph": "P20",
+          "text": "如果对手更怕妖精或特攻输出，可以花叶蒂加草猩首发，后排从大狃拉、鬼鱼和将军里挑两只。"
+        },
+        {
+          "index": 86,
+          "paragraph": "P20",
+          "text": "比如带大狃拉加鬼鱼，草猩和大狃拉轮换着打击掌，给花叶蒂找冥想机会，鬼鱼负责后续爆发。"
+        },
+        {
+          "index": 87,
+          "paragraph": "P20",
+          "text": "需要恶钢打击时，也可以把鬼鱼换成将军。"
+        },
+        {
+          "index": 88,
+          "paragraph": "P20",
+          "text": "想打双击掌这条路线，后排就得有大狃拉。"
+        },
+        {
+          "index": 89,
+          "paragraph": "P20",
+          "text": "这套没有顺风，要先判断击掌掩护和自身耐久够不够，别为了强化让花叶蒂白吃集火。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 24,
+      "frame_id": "R21",
+      "frame_title": "选出对局③：空间路线与条件修正",
+      "start_ms": 439915,
+      "end_ms": 496850,
+      "duration_ms": 56935,
+      "first_cue": 90,
+      "last_cue": 101,
+      "subtitle_start_ms": 439915,
+      "subtitle_end_ms": 496550,
+      "topic": "正式展开：空间选出与条件修正",
+      "focus_plan": "先展开空间路线，再看精神场地≠尾甲；第96条起强调赛富豪，第100条起强调沙暴速度比较。",
+      "texts": [
+        {
+          "index": 90,
+          "paragraph": "P21",
+          "text": "面对奇麒麟一类空间体系，对方又没有太强的妖精压力时，可以暴飞龙加草猩首发，"
+        },
+        {
+          "index": 91,
+          "paragraph": "P21",
+          "text": "将军和鬼鱼后排。"
+        },
+        {
+          "index": 92,
+          "paragraph": "P21",
+          "text": "用守住和换位拖空间，将军视局面反打，鬼鱼留着接空间结束。"
+        },
+        {
+          "index": 93,
+          "paragraph": "P21",
+          "text": "如果对面是爱管侍的精神场地体系，草猩还可以找机会重新进场、覆盖场地。"
+        },
+        {
+          "index": 94,
+          "paragraph": "P21",
+          "text": "不过奇麒麟的尾甲要单独处理，盖掉精神场地也解除不了尾甲对先制的限制，"
+        },
+        {
+          "index": 95,
+          "paragraph": "P21",
+          "text": "不能指望靠换场地就拍出击掌。"
+        },
+        {
+          "index": 96,
+          "paragraph": "P22",
+          "text": "再补一个排位里的判断。"
+        },
+        {
+          "index": 97,
+          "paragraph": "P22",
+          "text": "看阵容可以先推测对手赛富豪的速度线，但不能只凭队伍表就断定性格。"
+        },
+        {
+          "index": 98,
+          "paragraph": "P22",
+          "text": "对面是内敛时，鬼鱼能自然先手；换成胆小极速，这个优势就没了，"
+        },
+        {
+          "index": 99,
+          "paragraph": "P22",
+          "text": "需要重新考虑顺风或者将军的作用。"
+        },
+        {
+          "index": 100,
+          "paragraph": "P22",
+          "text": "沙暴也是一样：顺风鬼鱼能快过拨沙的固执满速龙头地鼠，却快不过爽朗极速。"
+        },
+        {
+          "index": 101,
+          "paragraph": "P22",
+          "text": "对手有没有其他加速也要一起看，同一只宝可梦，配置不同，处理方式就会变。"
+        }
+      ],
+      "reused": true
+    },
+    {
+      "segment": 25,
+      "frame_id": "R22",
+      "frame_title": "操作判断：这一回合是否值得顺风",
+      "start_ms": 496850,
+      "end_ms": 516305,
+      "duration_ms": 19455,
+      "first_cue": 102,
+      "last_cue": 105,
+      "subtitle_start_ms": 496850,
+      "subtitle_end_ms": 516155,
+      "topic": "本回合是否值得顺风",
+      "focus_plan": "队友能否打出关键伤害→与巨声/守住/换人比较。",
+      "texts": [
+        {
+          "index": 102,
+          "paragraph": "P23",
+          "text": "操作时最容易纠结的，是暴飞龙这回合到底开不开顺风。"
+        },
+        {
+          "index": 103,
+          "paragraph": "P23",
+          "text": "如果开完以后，队友能抢先打出关键伤害，就值得开。"
+        },
+        {
+          "index": 104,
+          "paragraph": "P23",
+          "text": "如果对方空间还在，或者自己已经够快，就看看直接巨声、守住躲集火，或者换人会不会更赚。"
+        },
+        {
+          "index": 105,
+          "paragraph": "P23",
+          "text": "先想好这回合最需要做什么，再点技能。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 26,
+      "frame_id": "R23",
+      "frame_title": "操作判断：Mega分配与道具成本",
+      "start_ms": 516305,
+      "end_ms": 537695,
+      "duration_ms": 21390,
+      "first_cue": 106,
+      "last_cue": 110,
+      "subtitle_start_ms": 516305,
+      "subtitle_end_ms": 537545,
+      "topic": "Mega分配与道具成本",
+      "focus_plan": "两列对照：进化谁、未进化者做什么、仍带进化石。",
+      "texts": [
+        {
+          "index": 106,
+          "paragraph": "P24",
+          "text": "双Mega一起选出来，也要提前想好进化谁。"
+        },
+        {
+          "index": 107,
+          "paragraph": "P24",
+          "text": "需要暴飞龙的飞行AOE和面板，就把Mega交给它；需要花叶蒂强化输出，就让花叶蒂进化，"
+        },
+        {
+          "index": 108,
+          "paragraph": "P24",
+          "text": "暴飞龙负责威吓和顺风。"
+        },
+        {
+          "index": 109,
+          "paragraph": "P24",
+          "text": "没进化的那只仍然带着进化石，所以选之前就得想清楚，它保持普通形态能做多少事，"
+        },
+        {
+          "index": 110,
+          "paragraph": "P24",
+          "text": "值不值得占这个位置。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 27,
+      "frame_id": "R24",
+      "frame_title": "操作判断：守住一格也要看另一格",
+      "start_ms": 537695,
+      "end_ms": 553280,
+      "duration_ms": 15585,
+      "first_cue": 111,
+      "last_cue": 114,
+      "subtitle_start_ms": 537695,
+      "subtitle_end_ms": 552980,
+      "topic": "守住与另一格风险",
+      "focus_plan": "另一格可能被集火→对手强化/换位→下一回合计划。",
+      "texts": [
+        {
+          "index": 111,
+          "paragraph": "P25",
+          "text": "还有守住的使用。"
+        },
+        {
+          "index": 112,
+          "paragraph": "P25",
+          "text": "这份配置一共五个守住，拖空间、躲集火都很灵活，但要同时看另一格会不会被打穿，"
+        },
+        {
+          "index": 113,
+          "paragraph": "P25",
+          "text": "对手会不会趁机强化。"
+        },
+        {
+          "index": 114,
+          "paragraph": "P25",
+          "text": "尤其别把连续守住当成稳定操作，先把下一回合的换位和反打想好。"
+        }
+      ],
+      "reused": false
+    },
+    {
+      "segment": 28,
+      "frame_id": "R25",
+      "frame_title": "总结：从多活一回合到完整获胜路线",
+      "start_ms": 553280,
+      "end_ms": 588990,
+      "duration_ms": 35710,
+      "first_cue": 115,
+      "last_cue": 121,
+      "subtitle_start_ms": 553280,
+      "subtitle_end_ms": 588990,
+      "topic": "总结与收束",
+      "focus_plan": "配置目标→协作主链→花叶蒂备选路线→最终总结。",
+      "texts": [
+        {
+          "index": 115,
+          "paragraph": "P26",
+          "text": "回头看这支队，耐久分配要对应具体的出手目标，速度分配要对应想超过的对手。"
+        },
+        {
+          "index": 116,
+          "paragraph": "P26",
+          "text": "选出时再围绕这些目标，安排谁开顺风、谁抢场地、谁留到最后收尾，"
+        },
+        {
+          "index": 117,
+          "paragraph": "P26",
+          "text": "配置里的细节才能真正用出来。"
+        },
+        {
+          "index": 118,
+          "paragraph": "P27",
+          "text": "所以这只重装肉坦暴飞龙的优势，就在于扛住以后还能继续开顺风、打巨声，"
+        },
+        {
+          "index": 119,
+          "paragraph": "P27",
+          "text": "让草猩、大狃拉的掩护和鬼鱼的爆发接起来。"
+        },
+        {
+          "index": 120,
+          "paragraph": "P27",
+          "text": "遇到适合花叶蒂的对局，再切换Mega路线。"
+        },
+        {
+          "index": 121,
+          "paragraph": "P27",
+          "text": "这就是这支平衡队值得拆解的地方，大家使用时，也可以从暴飞龙多活下来的那一回合开始考虑。"
+        }
+      ],
+      "reused": false
+    }
+  ]
+}
