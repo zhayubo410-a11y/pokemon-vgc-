@@ -1,0 +1,53 @@
+{
+  "step": "安装HyperFrames并验证环境",
+  "status": "本步完成，等待下一步批准",
+  "hyperframes_version": "0.8.183",
+  "runtime_dir": "/workspace/hyperframes-runtime",
+  "cli": "/workspace/hyperframes-runtime/hyperframes",
+  "required_checks_passed": [
+    "Version",
+    "Node.js",
+    "CPU",
+    "Memory",
+    "Disk",
+    "Archive extractor",
+    "FFmpeg",
+    "FFprobe",
+    "Chrome"
+  ],
+  "doctor_overall_ok": false,
+  "optional_failures": [
+    {
+      "name": "whisper-cpp",
+      "ok": false,
+      "detail": "Not found (optional — needed for transcription)",
+      "hint": "Build from source: https://github.com/ggml-org/whisper.cpp#building (requires cmake and a C compiler)"
+    },
+    {
+      "name": "TTS (Kokoro)",
+      "ok": false,
+      "detail": "Not installed (optional — local voice fallback)",
+      "hint": "pip install kokoro-onnx soundfile"
+    },
+    {
+      "name": "BGM (MusicGen)",
+      "ok": false,
+      "detail": "Not installed (optional — local music fallback)",
+      "hint": "pip install transformers torch soundfile numpy"
+    }
+  ],
+  "browser_probe": {
+    "browser": "Chrome/154.0.8037.57",
+    "executable": "/usr/bin/chromium",
+    "bodyText": "宝可梦 · 顺风验证",
+    "pageErrors": [],
+    "mode": "DOM-only environment probe; no composition, screenshots or video rendered"
+  },
+  "h264_encoder": "libx264 available; not encoded in this step",
+  "chinese_font": "Noto Sans CJK SC",
+  "source_srt_unchanged": true,
+  "source_html_unchanged": true,
+  "composition_created": false,
+  "video_rendered": false,
+  "telemetry_disabled_in_wrapper": true
+}

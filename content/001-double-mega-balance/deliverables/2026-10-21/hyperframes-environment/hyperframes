@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+RUNTIME_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+export HYPERFRAMES_BROWSER_PATH="${HYPERFRAMES_BROWSER_PATH:-/usr/bin/chromium}"
+export HYPERFRAMES_FFMPEG_PATH="${HYPERFRAMES_FFMPEG_PATH:-/usr/bin/ffmpeg}"
+export HYPERFRAMES_FFPROBE_PATH="${HYPERFRAMES_FFPROBE_PATH:-/usr/bin/ffprobe}"
+export HYPERFRAMES_NO_TELEMETRY=1
+exec node "$RUNTIME_DIR/node_modules/hyperframes/bin/hyperframes.mjs" "$@"

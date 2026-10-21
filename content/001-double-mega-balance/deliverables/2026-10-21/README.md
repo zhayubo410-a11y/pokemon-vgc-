@@ -38,3 +38,7 @@ SRT为配音前估算，采用约300朗读单位/分钟与短停顿；同段首�
 - [下载HTML审阅表](timeline-review.html)
 
 尚未安装HyperFrames、转换渲染工程或开始渲染。需用户确认后才进入下一步。
+
+## HyperFrames环境安装完成
+
+[安装与验证报告](hyperframes-environment/安装与环境验证.md)：HyperFrames0.8.183、浏览器、中文字体、FFmpeg/FFprobe与H.264必需项验证通过。仅可选音频功能未接入。本步未转换HTML或渲染视频。下一步需单独批准。
